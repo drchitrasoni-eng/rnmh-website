@@ -3,6 +3,7 @@ import path from 'node:path';
 
 const outRoot = path.resolve('.');
 const today = '2026-06-18';
+const assetVersion = '20260618-aeo-hotfix';
 
 const hospital = {
   name: 'R N Multispeciality Hospital',
@@ -349,7 +350,7 @@ function layout({ kind, title, meta, canonical, alternates = '', schema = '', bo
 ${alternates}
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700;12..96,800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="${prefix}assets/css/style.css"><link rel="icon" href="${prefix}assets/img/logo.png">
+<link rel="stylesheet" href="${prefix}assets/css/style.css?v=${assetVersion}"><link rel="icon" href="${prefix}assets/img/logo.png">
 <meta property="og:title" content="${esc(title)}">
 <meta property="og:description" content="${esc(meta)}">
 <meta property="og:image" content="https://rnmh.in/assets/img/exterior.jpg">
@@ -363,7 +364,7 @@ ${isHindi ? headerHi(prefix, langHref) : header(prefix, langHref)}
 ${body}
 ${isHindi ? footerHi(prefix) : footer(prefix)}
 <div class="sticky-bar"><a class="btn btn-ghost js-phone-link" href="tel:${hospital.tel}">${isHindi ? 'कॉल' : 'Call'}</a><a class="btn btn-primary js-wa" href="#">${isHindi ? 'WhatsApp पर बुक करें' : 'Book on WhatsApp'}</a></div>
-<script src="${prefix}assets/js/site.js"></script>
+<script src="${prefix}assets/js/site.js?v=${assetVersion}"></script>
 </body>
 </html>
 `;
@@ -1007,6 +1008,25 @@ function updateCampaigns() {
   }
 }
 
+function updateAssetReferences() {
+  const files = [];
+  const walk = (dir) => {
+    for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+      if (entry.name === '.git' || entry.name === 'node_modules') continue;
+      const full = path.join(dir, entry.name);
+      if (entry.isDirectory()) walk(full);
+      else if (entry.isFile() && entry.name.endsWith('.html')) files.push(full);
+    }
+  };
+  walk(outRoot);
+  for (const file of files) {
+    let html = fs.readFileSync(file, 'utf8');
+    html = html.replace(/assets\/css\/style\.css(?:\?v=[^"]*)?/g, `assets/css/style.css?v=${assetVersion}`);
+    html = html.replace(/assets\/js\/site\.js(?:\?v=[^"]*)?/g, `assets/js/site.js?v=${assetVersion}`);
+    fs.writeFileSync(file, html);
+  }
+}
+
 function sitemap() {
   const urls = [
     ['https://rnmh.in/', '1.0', 'weekly', 'https://rnmh.in/hi/'],
@@ -1042,6 +1062,7 @@ function generate() {
   for (const [slug, data] of Object.entries(hiPages)) fs.writeFileSync(path.join(outRoot, `hi/treatments/${slug}.html`), hiTreatmentHtml(slug, data));
   updateHindiExisting();
   updateCampaigns();
+  updateAssetReferences();
   sitemap();
 }
 

@@ -221,6 +221,8 @@ ul.ticks li::before{content:"✓";position:absolute;left:0;color:var(--teal-deep
 
 
 
+
+
 /* AEO fact tables and internal-link sections */
 .fact-table{width:100%;border-collapse:separate;border-spacing:0;background:#fff;border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;box-shadow:var(--shadow-soft)}
 .fact-table th,.fact-table td{padding:14px 16px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
