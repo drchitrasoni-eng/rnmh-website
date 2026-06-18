@@ -168,7 +168,7 @@ ul.ticks li::before{content:"✓";position:absolute;left:0;color:var(--teal-deep
 
 /* responsive */
 @media(max-width:900px){
-  .hero .wrap{grid-template-columns:1fr}
+  .hero .wrap{grid-template-columns:1fr; padding-top: 24px;}
   .grid-3,.video-grid,.fac-grid,.gallery{grid-template-columns:repeat(2,1fr)}
   .stats .grid{grid-template-columns:repeat(2,1fr)}
   .contact-grid,.grid-2{grid-template-columns:1fr}
