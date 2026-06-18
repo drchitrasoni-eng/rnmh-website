@@ -54,7 +54,7 @@ nav.menu a.btn-primary{color:#fff !important}
 .mobile-menu a{padding:.5rem 0;font-weight:600;border-bottom:1px solid var(--line)}
 
 /* hero */
-.hero{background:linear-gradient(160deg,var(--teal-soft),#fff 60%);position:relative;overflow:hidden}
+.hero{background:linear-gradient(160deg,var(--teal-soft),#fff 60%);position:relative;overflow:hidden;padding:0}
 .hero .wrap{display:grid;grid-template-columns:1.1fr .9fr;gap:40px;align-items:center;padding-top:54px;padding-bottom:54px}
 .hero h1{font-size:clamp(2rem,4.5vw,3.2rem)}
 .hero h1 .accent{color:var(--magenta)}
@@ -83,6 +83,8 @@ nav.menu a.btn-primary{color:#fff !important}
 .card p{color:var(--muted);font-size:.94rem}
 .card .ico{width:46px;height:46px;border-radius:12px;display:grid;place-items:center;background:var(--teal-soft);color:var(--teal-deep);margin-bottom:14px}
 .card-img{width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:12px;margin-bottom:14px;display:block}
+#specialities .card-img{cursor:pointer}
+#specialities .card-img:focus-visible{outline:3px solid var(--teal);outline-offset:3px}
 .card a.more{display:inline-block;margin-top:12px;color:var(--magenta);font-weight:700;font-size:.9rem}
 
 /* doctor cards */
@@ -168,7 +170,7 @@ ul.ticks li::before{content:"✓";position:absolute;left:0;color:var(--teal-deep
 
 /* responsive */
 @media(max-width:900px){
-  .hero .wrap{grid-template-columns:1fr; padding-top: 24px;}
+  .hero .wrap{grid-template-columns:1fr;padding-top:24px;padding-bottom:32px;gap:22px}
   .grid-3,.video-grid,.fac-grid,.gallery{grid-template-columns:repeat(2,1fr)}
   .stats .grid{grid-template-columns:repeat(2,1fr)}
   .contact-grid,.grid-2{grid-template-columns:1fr}
@@ -205,3 +207,37 @@ ul.ticks li::before{content:"✓";position:absolute;left:0;color:var(--teal-deep
 @media(max-width:900px){ .wa-fab{display:none} }
 
 .doc .body .btn { width: 100%; justify-content: center; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* AEO fact tables and internal-link sections */
+.fact-table{width:100%;border-collapse:separate;border-spacing:0;background:#fff;border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;box-shadow:var(--shadow-soft)}
+.fact-table th,.fact-table td{padding:14px 16px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
+.fact-table th{width:220px;color:var(--ink);font-weight:800;background:var(--teal-soft)}
+.fact-table tr:last-child th,.fact-table tr:last-child td{border-bottom:0}
+.why-list{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.why-list li{list-style:none;background:#fff;border:1px solid var(--line);border-radius:14px;padding:16px;font-weight:600;box-shadow:var(--shadow-soft)}
+.link-band{background:var(--surface)}
+.link-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+.link-grid a{background:#fff;border:1px solid var(--line);border-radius:14px;padding:14px 16px;font-weight:700;color:var(--teal-deep);box-shadow:var(--shadow-soft)}
+.link-grid a:hover{border-color:var(--teal);box-shadow:var(--shadow)}
+.owner-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:22px 0}
+.owner-grid a{background:#fff;border:1px solid var(--line);border-radius:14px;padding:16px;box-shadow:var(--shadow-soft)}
+.owner-grid b{display:block;color:var(--ink);font-family:var(--font-h);font-size:1.02rem}
+.owner-grid span{display:block;color:var(--muted);font-size:.86rem;margin-top:4px}
+.ownership-note{margin-top:8px}
+.doctor-summary .btn{width:100%;justify-content:center}
+.footer-grid p{margin-bottom:10px}
+@media(max-width:900px){.why-list,.link-grid,.owner-grid{grid-template-columns:repeat(2,1fr)}.fact-table th{width:42%}}
+@media(max-width:520px){.why-list,.link-grid,.owner-grid{grid-template-columns:1fr}.fact-table th,.fact-table td{display:block;width:100%}.fact-table th{border-bottom:0}.fact-table td{padding-top:6px}}

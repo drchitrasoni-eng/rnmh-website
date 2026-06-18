@@ -15,11 +15,6 @@ document.querySelectorAll('.js-phone-link').forEach(function(el){ el.href = "tel
 // ---- footer year ----
 document.querySelectorAll('[data-year]').forEach(function(el){ el.textContent = new Date().getFullYear(); });
 
-// ---- experience counters: <span data-since="2010"></span> shows years since ----
-document.querySelectorAll('[data-since]').forEach(function(el){
-  var since = parseInt(el.getAttribute('data-since'), 10);
-  if(!isNaN(since)){ el.textContent = (new Date().getFullYear() - since); }
-});
 
 // ---- mobile nav ----
 var burger = document.getElementById('burger');
@@ -27,6 +22,25 @@ var mob = document.getElementById('mobileMenu');
 if(burger && mob){ burger.addEventListener('click', function(){
   mob.style.display = (mob.style.display === 'flex') ? 'none' : 'flex';
 }); }
+
+// ---- speciality card images follow the existing learn-more link ----
+document.querySelectorAll('#specialities .card-img').forEach(function(img){
+  var card = img.closest('.card');
+  var link = card && card.querySelector('a.more[href]');
+  if(!link) return;
+  img.setAttribute('role', 'link');
+  img.setAttribute('tabindex', '0');
+  img.setAttribute('aria-label', link.textContent.trim());
+  img.addEventListener('click', function(){
+    window.location.href = link.href;
+  });
+  img.addEventListener('keydown', function(e){
+    if(e.key === 'Enter' || e.key === ' '){
+      e.preventDefault();
+      window.location.href = link.href;
+    }
+  });
+});
 
 // ---- WhatsApp numbers (assembled at runtime, not stored as plain text) ----
 var HOSPITAL_WA = ['91','952','132','3878'].join('');   // +91 95213 23878 (hospital line / Dr Robin Bothra)

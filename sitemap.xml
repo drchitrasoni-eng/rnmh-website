@@ -4,7 +4,7 @@
 
   <url>
     <loc>https://rnmh.in/</loc>
-    <lastmod>2026-06-17</lastmod>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/"/>
@@ -14,7 +14,7 @@
 
   <url>
     <loc>https://rnmh.in/doctors.html</loc>
-    <lastmod>2026-06-17</lastmod>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/doctors.html"/>
@@ -24,17 +24,27 @@
 
   <url>
     <loc>https://rnmh.in/contact.html</loc>
-    <lastmod>2026-06-17</lastmod>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/contact.html"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/contact.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://rnmh.in/contact.html"/>
   </url>
 
   <url>
+    <loc>https://rnmh.in/accreditations.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/accreditations.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/accreditations.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rnmh.in/accreditations.html"/>
+  </url>
+
+  <url>
     <loc>https://rnmh.in/services/general-surgery.html</loc>
-    <lastmod>2026-06-17</lastmod>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/services/general-surgery.html"/>
@@ -44,7 +54,7 @@
 
   <url>
     <loc>https://rnmh.in/services/gynaecology.html</loc>
-    <lastmod>2026-06-17</lastmod>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/services/gynaecology.html"/>
@@ -54,7 +64,7 @@
 
   <url>
     <loc>https://rnmh.in/services/pain-spine.html</loc>
-    <lastmod>2026-06-17</lastmod>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/services/pain-spine.html"/>
@@ -64,7 +74,7 @@
 
   <url>
     <loc>https://rnmh.in/services/orthopaedics.html</loc>
-    <lastmod>2026-06-17</lastmod>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/services/orthopaedics.html"/>
@@ -74,7 +84,7 @@
 
   <url>
     <loc>https://rnmh.in/services/urology.html</loc>
-    <lastmod>2026-06-17</lastmod>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/services/urology.html"/>
@@ -84,7 +94,7 @@
 
   <url>
     <loc>https://rnmh.in/services/neurosurgery.html</loc>
-    <lastmod>2026-06-17</lastmod>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/services/neurosurgery.html"/>
@@ -94,7 +104,7 @@
 
   <url>
     <loc>https://rnmh.in/services/ent.html</loc>
-    <lastmod>2026-06-17</lastmod>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/services/ent.html"/>
@@ -104,7 +114,7 @@
 
   <url>
     <loc>https://rnmh.in/services/general-medicine.html</loc>
-    <lastmod>2026-06-17</lastmod>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/services/general-medicine.html"/>
@@ -114,12 +124,311 @@
 
   <url>
     <loc>https://rnmh.in/services/pathology.html</loc>
-    <lastmod>2026-06-17</lastmod>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/services/pathology.html"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/services/pathology.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://rnmh.in/services/pathology.html"/>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/treatments/laser-piles-treatment-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/treatments/laser-piles-treatment-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/treatments/laser-piles-treatment-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rnmh.in/treatments/laser-piles-treatment-jaipur.html"/>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/treatments/hernia-surgery-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/treatments/hernia-surgery-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/treatments/hernia-surgery-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rnmh.in/treatments/hernia-surgery-jaipur.html"/>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/treatments/gall-bladder-stone-surgery-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/treatments/gall-bladder-stone-surgery-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/treatments/gall-bladder-stone-surgery-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rnmh.in/treatments/gall-bladder-stone-surgery-jaipur.html"/>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/treatments/appendix-surgery-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/treatments/laparoscopic-surgeon-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/treatments/gynaecologist-nirman-nagar-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/treatments/pregnancy-care-hospital-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/treatments/pregnancy-care-hospital-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/treatments/pregnancy-care-hospital-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rnmh.in/treatments/pregnancy-care-hospital-jaipur.html"/>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/treatments/high-risk-pregnancy-care-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/treatments/painless-delivery-hospital-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/treatments/back-pain-treatment-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/treatments/back-pain-treatment-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/treatments/back-pain-treatment-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rnmh.in/treatments/back-pain-treatment-jaipur.html"/>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/treatments/slip-disc-treatment-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/treatments/slip-disc-treatment-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/treatments/slip-disc-treatment-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rnmh.in/treatments/slip-disc-treatment-jaipur.html"/>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/treatments/sciatica-treatment-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/treatments/spine-specialist-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/treatments/kidney-stone-treatment-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/treatments/kidney-stone-treatment-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/treatments/kidney-stone-treatment-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rnmh.in/treatments/kidney-stone-treatment-jaipur.html"/>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/treatments/laser-kidney-stone-surgery-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/treatments/urologist-nirman-nagar-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/treatments/orthopaedic-doctor-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/treatments/knee-pain-treatment-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/treatments/fracture-treatment-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/treatments/knee-replacement-surgeon-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/treatments/24x7-emergency-hospital-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/treatments/24x7-emergency-hospital-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/treatments/24x7-emergency-hospital-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rnmh.in/treatments/24x7-emergency-hospital-jaipur.html"/>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/treatments/emergency-hospital-near-mansarovar-metro-station.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/treatments/cashless-hospital-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/treatments/cashless-hospital-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/treatments/cashless-hospital-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rnmh.in/treatments/cashless-hospital-jaipur.html"/>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/treatments/rghs-hospital-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/treatments/pm-jay-hospital-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/treatments/maa-yojana-hospital-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/hi/treatments/laser-piles-treatment-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/treatments/laser-piles-treatment-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/treatments/laser-piles-treatment-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rnmh.in/treatments/laser-piles-treatment-jaipur.html"/>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/hi/treatments/hernia-surgery-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/treatments/hernia-surgery-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/treatments/hernia-surgery-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rnmh.in/treatments/hernia-surgery-jaipur.html"/>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/hi/treatments/gall-bladder-stone-surgery-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/treatments/gall-bladder-stone-surgery-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/treatments/gall-bladder-stone-surgery-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rnmh.in/treatments/gall-bladder-stone-surgery-jaipur.html"/>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/hi/treatments/pregnancy-care-hospital-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/treatments/pregnancy-care-hospital-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/treatments/pregnancy-care-hospital-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rnmh.in/treatments/pregnancy-care-hospital-jaipur.html"/>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/hi/treatments/back-pain-treatment-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/treatments/back-pain-treatment-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/treatments/back-pain-treatment-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rnmh.in/treatments/back-pain-treatment-jaipur.html"/>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/hi/treatments/slip-disc-treatment-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/treatments/slip-disc-treatment-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/treatments/slip-disc-treatment-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rnmh.in/treatments/slip-disc-treatment-jaipur.html"/>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/hi/treatments/kidney-stone-treatment-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/treatments/kidney-stone-treatment-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/treatments/kidney-stone-treatment-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rnmh.in/treatments/kidney-stone-treatment-jaipur.html"/>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/hi/treatments/24x7-emergency-hospital-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/treatments/24x7-emergency-hospital-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/treatments/24x7-emergency-hospital-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rnmh.in/treatments/24x7-emergency-hospital-jaipur.html"/>
+  </url>
+
+  <url>
+    <loc>https://rnmh.in/hi/treatments/cashless-hospital-jaipur.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/treatments/cashless-hospital-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/treatments/cashless-hospital-jaipur.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rnmh.in/treatments/cashless-hospital-jaipur.html"/>
   </url>
 
 </urlset>

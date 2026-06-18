@@ -3,25 +3,44 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>R N Multispeciality Hospital, Jaipur | 24x7 Multispeciality Care Near Mansarovar Metro Station</title>
-<meta name="description" content="R N Multispeciality Hospital in Nirman Nagar, Jaipur is a 50-bed, 24x7 NABH-accredited multispeciality hospital rated 4.9 across 3,814 Google reviews (hospital and lead specialists). Pain and spine, gynaecology, surgery, orthopaedics, urology and more. Book on WhatsApp.">
+<title>R N Multispeciality Hospital Jaipur | 24x7 Emergency Care in Nirman Nagar</title>
+<meta name="description" content="R N Multispeciality Hospital is a 50-bed multispeciality hospital in Nirman Nagar, Jaipur, near Mansarovar Metro Station, offering 24x7 emergency care, specialist doctors, surgery, diagnostics, and cashless insurance support.">
 <link rel="canonical" href="https://rnmh.in/">
 <link rel="alternate" hreflang="en" href="https://rnmh.in/">
 <link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/">
 <link rel="alternate" hreflang="x-default" href="https://rnmh.in/">
+<script>
+(function(){
+  try {
+    var params = new URLSearchParams(window.location.search);
+    var chosen = params.get('lang');
+    if (chosen === 'en' || chosen === 'hi') localStorage.setItem('rnmhLang', chosen);
+    if (chosen === 'en') return;
+    if (localStorage.getItem('rnmhLang') === 'en') return;
+    var path = window.location.pathname || '';
+    var isHome = path === '/' || path.endsWith('/index.html') || path.endsWith('/site/index.html');
+    if (!isHome) return;
+    var langs = navigator.languages && navigator.languages.length ? navigator.languages : [navigator.language || ''];
+    var wantsHindi = langs.some(function(lang){ return /^hi\b/i.test(lang); });
+    if (!wantsHindi) return;
+    localStorage.setItem('rnmhLang', 'hi');
+    window.location.replace('hi/index.html' + (window.location.hash || ''));
+  } catch (error) {}
+})();
+</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700;12..96,800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/css/style.css?v=1.2">
 <link rel="icon" href="assets/img/logo.png">
 <meta property="og:title" content="R N Multispeciality Hospital, Jaipur">
-<meta property="og:description" content="50-bed, 24x7 NABH-accredited multispeciality hospital in Nirman Nagar, Jaipur. Rated 4.9 across 3,814 Google reviews.">
+<meta property="og:description" content="50-bed multispeciality hospital in Nirman Nagar, Jaipur, near Mansarovar Metro Station, with 24x7 emergency care, specialist doctors, surgery, diagnostics and cashless insurance support.">
 <meta property="og:image" content="assets/img/exterior.jpg">
 <meta property="og:type" content="website">
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",
-  "@type":"Hospital",
+  "@type":["Hospital","MedicalOrganization","LocalBusiness"],
   "@id":"https://rnmh.in/#hospital",
   "name":"R N Multispeciality Hospital",
   "alternateName":"RNMH",
@@ -29,8 +48,8 @@
   "logo":"https://rnmh.in/assets/img/logo.png",
   "image":"https://rnmh.in/assets/img/exterior.jpg",
   "slogan":"Inspiring better health",
-  "description":"R N Multispeciality Hospital is a 50-bed, 24x7, NABH-accredited multispeciality hospital in Nirman Nagar, Jaipur, near Mansarovar Metro Station, rated 4.9 on Google.",
-  "telephone":"+91-141-2390320",
+  "description":"R N Multispeciality Hospital is a 50-bed multispeciality hospital in Nirman Nagar, Jaipur, near Mansarovar Metro Station, offering 24x7 emergency care, specialist consultations, surgical services, diagnostics, and cashless insurance support.",
+  "telephone":"+91-141-239-0320",
   "priceRange":"₹₹",
   "currenciesAccepted":"INR",
   "paymentAccepted":"Cash, Cashless insurance, TPA, Ayushman Bharat (PM-JAY), RGHS, MAA Yojana, Chiranjeevi",
@@ -50,13 +69,57 @@
     "https://www.instagram.com/drchitra_simplygynec/",
     "https://www.instagram.com/spine_joint_and_back_pain_",
     "https://www.instagram.com/dr_robin_rn_hospital/"
-  ],
-  "aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"1289"}
+  ]
 }
 </script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Is R N Multispeciality Hospital open 24x7?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, we are open 24x7, 365 days a year with an active emergency department, ICU, and round-the-clock ambulance services."}}, {"@type": "Question", "name": "Are government schemes like PM-JAY and RGHS accepted?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, we are NABH accredited and accept cashless treatments under Ayushman Bharat (PM-JAY), RGHS, MAA Yojana, Chiranjeevi, and all major TPAs."}}, {"@type": "Question", "name": "How can I book an appointment with a specialist?", "acceptedAnswer": {"@type": "Answer", "text": "You can book an appointment instantly via WhatsApp by clicking any \"Book on WhatsApp\" button on our site, or by calling our reception directly at <span class="js-phone-display">0141 239 0320</span>."}}]}
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is R N Multispeciality Hospital open 24x7?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. R N Multispeciality Hospital provides 24x7 emergency care in Nirman Nagar, Jaipur."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where is R N Multispeciality Hospital located?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "R N Multispeciality Hospital is located in Nirman Nagar, Jaipur, near Mansarovar Metro Station."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does RNMH offer cashless insurance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. RNMH supports cashless insurance and TPA services, subject to policy and provider approval."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What specialties are available at RNMH?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "RNMH offers General & Laparoscopic Surgery, Obstetrics & Gynaecology, Pain Management & Spine Care, Orthopaedics, Urology, Neurosurgery, ENT, General Medicine, and Pathology."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I book an appointment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patients can book an appointment on WhatsApp or call 0141 239 0320."
+      }
+    }
+  ]
+}
 </script>
 </head>
 <body>
@@ -68,10 +131,10 @@
 
 <header class="nav"><div class="wrap">
   <a class="brand" href="index.html"><img src="assets/img/logo.png" alt="R N Multispeciality Hospital logo"><span>RNMH<small>inspiring better health</small></span></a>
-  <nav class="menu"><a href="index.html">Home</a><a href="index.html#specialities">Specialities</a><a href="doctors.html">Doctors</a><a href="index.html#facilities">Facilities</a><a href="index.html#reviews">Reviews</a><a href="contact.html">Contact</a><a class="lang" href="hi/index.html">हिन्दी</a><a class="btn btn-primary js-wa" href="#">Book appointment</a></nav>
+  <nav class="menu"><a href="index.html">Home</a><a href="index.html#specialities">Specialities</a><a href="doctors.html">Doctors</a><a href="index.html#facilities">Facilities</a><a href="index.html#reviews">Reviews</a><a href="contact.html">Contact</a><a class="lang" href="hi/index.html?lang=hi">हिन्दी</a><a class="btn btn-primary js-wa" href="#">Book appointment</a></nav>
   <button class="burger" id="burger" aria-label="Menu">☰</button>
 </div>
-<div class="mobile-menu" id="mobileMenu"><a href="index.html">Home</a><a href="index.html#specialities">Specialities</a><a href="doctors.html">Doctors</a><a href="index.html#facilities">Facilities</a><a href="index.html#reviews">Reviews</a><a href="contact.html">Contact</a><a href="hi/index.html">हिन्दी</a><a class="btn btn-primary js-wa" href="#" style="margin-top:8px; display:inline-block; text-align:center;">Book appointment</a></div>
+<div class="mobile-menu" id="mobileMenu"><a href="index.html">Home</a><a href="index.html#specialities">Specialities</a><a href="doctors.html">Doctors</a><a href="index.html#facilities">Facilities</a><a href="index.html#reviews">Reviews</a><a href="contact.html">Contact</a><a href="hi/index.html?lang=hi">हिन्दी</a><a class="btn btn-primary js-wa" href="#" style="margin-top:8px; display:inline-block; text-align:center;">Book appointment</a></div>
 </header>
 
 <!-- HERO: answer-first for GEO -->
@@ -107,6 +170,9 @@
   <div class="stat"><div class="num">4.9★</div><div class="lbl">Across 3,814 patient reviews</div></div>
 </div></div></section>
 
+
+
+
 <!-- SPECIALITIES -->
 <section id="specialities"><div class="wrap">
   <div class="sec-head">
@@ -132,12 +198,12 @@
 <section style="background:var(--teal-soft)"><div class="wrap">
   <div class="sec-head"><span class="eyebrow">Meet the team</span><h2>Experienced specialists who listen</h2></div>
   <div class="grid-3">
-    <div class="doc"><div class="photo"><img src="assets/img/docs/robin-bothra.jpg" alt="Dr Robin Bothra, General &amp; Laparoscopic Surgeon"></div><div class="body"><h3>Dr Robin Bothra</h3><span class="spec">General &amp; Laparoscopic Surgeon</span><span class="qual">MBBS, MS, FMAS</span><span class="exp"><span data-since="2003"></span>+ years</span><a class="btn btn-teal" href="doctors.html#robin-bothra" style="width: 100%; justify-content: center;">View profile</a><button class="btn btn-primary js-wa" style="margin-top:2px; width: 100%; justify-content: center;">Book appointment</button></div></div>
-    <div class="doc"><div class="photo"><img src="assets/img/docs/chitra-soni.jpg" alt="Dr Chitra Soni, Obstetrics, Gynaecology &amp; Fertility"></div><div class="body"><h3>Dr Chitra Soni</h3><span class="spec">Obstetrics, Gynaecology &amp; Fertility</span><span class="qual">MBBS, MS (Obs &amp; Gynae)</span><span class="exp"><span data-since="2010"></span>+ years</span><a class="btn btn-teal" href="doctors.html#chitra-soni" style="width: 100%; justify-content: center;">View profile</a><button class="btn btn-primary js-wa" style="margin-top:2px; width: 100%; justify-content: center;">Book appointment</button></div></div>
-    <div class="doc"><div class="photo"><img src="assets/img/docs/naveen-soni.jpg" alt="Dr Naveen Soni, Interventional Pain Physician"></div><div class="body"><h3>Dr Naveen Soni</h3><span class="spec">Interventional Pain Physician</span><span class="qual">MBBS, MD, FIPM (Germany), MISS-EPP</span><span class="exp"><span data-since="2010"></span>+ years</span><a class="btn btn-teal" href="doctors.html#naveen-soni" style="width: 100%; justify-content: center;">View profile</a><button class="btn btn-primary js-wa" style="margin-top:2px; width: 100%; justify-content: center;">Book appointment</button></div></div>
-    <div class="doc"><div class="photo"><img src="assets/img/docs/chirag-jain.jpg" alt="Dr Chirag Jain, Orthopaedic &amp; Joint Replacement Surgeon"></div><div class="body"><h3>Dr Chirag Jain</h3><span class="spec">Orthopaedics &amp; Joint Replacement</span><span class="qual">MBBS, MS (Orthopaedics)</span><span class="exp"><span data-since="2015"></span>+ years</span><a class="btn btn-teal" href="doctors.html#chirag-jain" style="width: 100%; justify-content: center;">View profile</a><button class="btn btn-primary js-wa" style="margin-top:2px; width: 100%; justify-content: center;">Book appointment</button></div></div>
-    <div class="doc"><div class="photo"><img src="assets/img/docs/rn-daga.jpg" alt="Dr R N Daga, Urologist &amp; Andrologist"></div><div class="body"><h3>Dr R N Daga</h3><span class="spec">Urologist &amp; Andrologist</span><span class="qual">MBBS, MS, M.Ch (Urology)</span><span class="exp"><span data-since="2006"></span>+ years</span><a class="btn btn-teal" href="doctors.html#rn-daga" style="width: 100%; justify-content: center;">View profile</a><button class="btn btn-primary js-wa" style="margin-top:2px; width: 100%; justify-content: center;">Book appointment</button></div></div>
-    <div class="doc"><div class="photo"><img src="assets/img/docs/pavan-jain.jpg" alt="Dr Pavan Jain, Neurosurgeon — Brain &amp; Spine"></div><div class="body"><h3>Dr Pavan Jain</h3><span class="spec">Neurosurgeon — Brain &amp; Spine</span><span class="qual">MBBS, MS, M.Ch (Neurosurgery)</span><span class="exp"><span data-since="2010"></span>+ years</span><a class="btn btn-teal" href="doctors.html#pavan-jain" style="width: 100%; justify-content: center;">View profile</a><button class="btn btn-primary js-wa" style="margin-top:2px; width: 100%; justify-content: center;">Book appointment</button></div></div>
+    <div class="doc"><div class="photo"><img src="assets/img/docs/robin-bothra.jpg" alt="Dr Robin Bothra, General &amp; Laparoscopic Surgeon"></div><div class="body"><h3>Dr Robin Bothra</h3><span class="spec">General &amp; Laparoscopic Surgeon</span><span class="qual">MBBS, MS, FMAS</span><span class="exp">20+ years of experience</span><a class="btn btn-teal" href="doctors.html#robin-bothra" style="width: 100%; justify-content: center;">View profile</a><button class="btn btn-primary js-wa" style="margin-top:2px; width: 100%; justify-content: center;">Book appointment</button></div></div>
+    <div class="doc"><div class="photo"><img src="assets/img/docs/chitra-soni.jpg" alt="Dr Chitra Soni, Obstetrics, Gynaecology &amp; Fertility"></div><div class="body"><h3>Dr Chitra Soni</h3><span class="spec">Obstetrics, Gynaecology &amp; Fertility</span><span class="qual">MBBS, MS (Obs &amp; Gynae)</span><span class="exp">15+ years of experience</span><a class="btn btn-teal" href="doctors.html#chitra-soni" style="width: 100%; justify-content: center;">View profile</a><button class="btn btn-primary js-wa" style="margin-top:2px; width: 100%; justify-content: center;">Book appointment</button></div></div>
+    <div class="doc"><div class="photo"><img src="assets/img/docs/naveen-soni.jpg" alt="Dr Naveen Soni, Interventional Pain Physician"></div><div class="body"><h3>Dr Naveen Soni</h3><span class="spec">Interventional Pain Physician</span><span class="qual">MBBS, MD, FIPM (Germany), MISS-EPP</span><span class="exp">15+ years of experience</span><a class="btn btn-teal" href="doctors.html#naveen-soni" style="width: 100%; justify-content: center;">View profile</a><button class="btn btn-primary js-wa" style="margin-top:2px; width: 100%; justify-content: center;">Book appointment</button></div></div>
+    <div class="doc"><div class="photo"><img src="assets/img/docs/chirag-jain.jpg" alt="Dr Chirag Jain, Orthopaedic &amp; Joint Replacement Surgeon"></div><div class="body"><h3>Dr Chirag Jain</h3><span class="spec">Orthopaedics &amp; Joint Replacement</span><span class="qual">MBBS, MS (Orthopaedics)</span><span class="exp">10+ years of experience</span><a class="btn btn-teal" href="doctors.html#chirag-jain" style="width: 100%; justify-content: center;">View profile</a><button class="btn btn-primary js-wa" style="margin-top:2px; width: 100%; justify-content: center;">Book appointment</button></div></div>
+    <div class="doc"><div class="photo"><img src="assets/img/docs/rn-daga.jpg" alt="Dr R N Daga, Urologist &amp; Andrologist"></div><div class="body"><h3>Dr R N Daga</h3><span class="spec">Urologist &amp; Andrologist</span><span class="qual">MBBS, MS, M.Ch (Urology)</span><span class="exp">20+ years of experience</span><a class="btn btn-teal" href="doctors.html#rn-daga" style="width: 100%; justify-content: center;">View profile</a><button class="btn btn-primary js-wa" style="margin-top:2px; width: 100%; justify-content: center;">Book appointment</button></div></div>
+    <div class="doc"><div class="photo"><img src="assets/img/docs/pavan-jain.jpg" alt="Dr Pavan Jain, Neurosurgeon — Brain &amp; Spine"></div><div class="body"><h3>Dr Pavan Jain</h3><span class="spec">Neurosurgeon — Brain &amp; Spine</span><span class="qual">MBBS, MS, M.Ch (Neurosurgery)</span><span class="exp">15+ years of experience</span><a class="btn btn-teal" href="doctors.html#pavan-jain" style="width: 100%; justify-content: center;">View profile</a><button class="btn btn-primary js-wa" style="margin-top:2px; width: 100%; justify-content: center;">Book appointment</button></div></div>
   </div>
   <p class="center" style="margin-top:24px"><a class="btn btn-ghost" href="doctors.html">See all 9 specialists →</a></p>
 </div></section>
@@ -151,10 +217,10 @@
     <div class="fac">Private &amp; Deluxe Rooms</div><div class="fac">Centrally air-cooled</div><div class="fac">CCTV &amp; Power backup</div><div class="fac">Pharmacy &amp; Parking</div>
   </div>
   <div class="gallery">
-    <img loading="lazy" src="assets/img/lobby.jpg" alt="Hospital lobby">
-    <img loading="lazy" src="assets/img/ot.jpg" alt="Operation theatre">
-    <img loading="lazy" src="assets/img/nicu.jpg" alt="NICU">
-    <img loading="lazy" src="assets/img/ward.jpg" alt="Patient ward">
+    <img loading="lazy" src="assets/img/lobby.jpg" alt="Reception and lobby area at R N Multispeciality Hospital Jaipur">
+    <img loading="lazy" src="assets/img/ot.jpg" alt="Operation theatre at R N Multispeciality Hospital Jaipur">
+    <img loading="lazy" src="assets/img/nicu.jpg" alt="NICU facility at R N Multispeciality Hospital Jaipur">
+    <img loading="lazy" src="assets/img/ward.jpg" alt="Patient ward at R N Multispeciality Hospital Jaipur">
   </div>
 </div></section>
 
@@ -217,13 +283,82 @@
   </div>
 </div></section>
 
+
+
+
+
+
+
+
+
+
+
+<!-- RNMH SUPPORTING FACTS -->
+<section id="hospital-profile" class="hospital-profile" style="background:var(--surface)"><div class="wrap">
+  <div class="sec-head"><h2>Specialist-led care with personal continuity</h2><p class="lead">At R N Multispeciality Hospital, senior specialists remain closely involved in the patient journey, from consultation and diagnosis to admission, procedure planning and follow-up.</p></div>
+  <div class="owner-grid">
+    <a href="doctors.html#robin-bothra"><b>Dr Robin Bothra</b><span>General &amp; Laparoscopic Surgery</span></a>
+    <a href="doctors.html#chitra-soni"><b>Dr Chitra Soni</b><span>Obstetrics, Gynaecology &amp; Fertility</span></a>
+    <a href="doctors.html#naveen-soni"><b>Dr Naveen Soni</b><span>Pain Management &amp; Spine Care</span></a>
+    <a href="doctors.html#vinita-jain"><b>Dr Vinita Jain</b><span>Pathology &amp; Diagnostics</span></a>
+  </div>
+  <p class="lead ownership-note">Women doctors lead key parts of the hospital's patient experience, including women's health, fertility, diagnostics and clinical governance. This helps families choose RNMH for privacy, continuity and direct specialist access.</p>
+</div></section>
+
+<section id="at-a-glance" style="background:var(--bg)"><div class="wrap">
+  <div class="sec-head"><h2>R N Multispeciality Hospital at a glance</h2><p class="lead">A factual summary for patients, families and answer engines.</p></div>
+  <table class="fact-table">
+    <tr><th>Hospital type</th><td>50-bed multispeciality hospital</td></tr>
+    <tr><th>Location</th><td>Nirman Nagar, Jaipur</td></tr>
+    <tr><th>Landmark</th><td>Near Mansarovar Metro Station</td></tr>
+    <tr><th>Open</th><td>24x7</td></tr>
+    <tr><th>Emergency care</th><td>Available</td></tr>
+    <tr><th>ICU/NICU</th><td>Available</td></tr>
+    <tr><th>Insurance</th><td>Cashless, TPA, RGHS, PM-JAY, MAA Yojana</td></tr>
+    <tr><th>Main departments</th><td>General &amp; Laparoscopic Surgery, Obstetrics &amp; Gynaecology, Pain &amp; Spine, Orthopaedics, Urology, Neurosurgery, ENT, General Medicine, Pathology</td></tr>
+    <tr><th>Appointment</th><td>WhatsApp or call <a href="tel:+911412390320" class="js-phone-link"><span class="js-phone-display">0141 239 0320</span></a></td></tr>
+  </table>
+</div></section>
+
+<section id="why-rnmh"><div class="wrap">
+  <div class="sec-head"><h2>Why families choose RNMH</h2><p class="lead">Straightforward reasons to choose a specialist-led hospital near Mansarovar Metro Station.</p></div>
+  <ul class="why-list">
+    <li>24x7 emergency care and ambulance support</li>
+    <li>50-bed multispeciality hospital in Nirman Nagar</li>
+    <li>Senior specialists involved across consultation, admission and follow-up</li>
+    <li>Women-led leadership across gynaecology, fertility and diagnostics</li>
+    <li>ICU, NICU and modular operation theatre</li>
+    <li>In-house diagnostics including lab, X-ray, sonography, colour Doppler and ECG</li>
+    <li>Cashless insurance and TPA support</li>
+    <li>RGHS, PM-JAY and MAA Yojana support where applicable</li>
+    <li>Private, deluxe and family-friendly rooms for planned admissions</li>
+  </ul>
+</div></section>
+
+<section class="link-band"><div class="wrap">
+  <div class="sec-head"><h2>Treatment guides for common searches</h2><p class="lead">Useful local pages for patients comparing care options in Jaipur.</p></div>
+  <div class="link-grid">
+    <a href="treatments/laser-piles-treatment-jaipur.html">Laser Piles Treatment in Jaipur</a>
+    <a href="treatments/hernia-surgery-jaipur.html">Hernia Surgery in Jaipur</a>
+    <a href="treatments/gall-bladder-stone-surgery-jaipur.html">Gall Bladder Stone Surgery in Jaipur</a>
+    <a href="treatments/pregnancy-care-hospital-jaipur.html">Pregnancy Care Hospital in Jaipur</a>
+    <a href="treatments/back-pain-treatment-jaipur.html">Back Pain Treatment in Jaipur</a>
+    <a href="treatments/kidney-stone-treatment-jaipur.html">Kidney Stone Treatment in Jaipur</a>
+    <a href="treatments/24x7-emergency-hospital-jaipur.html">24x7 Emergency Hospital in Nirman Nagar Jaipur</a>
+    <a href="treatments/cashless-hospital-jaipur.html">Cashless Hospital in Jaipur</a>
+  </div>
+</div></section>
+<!-- END RNMH SUPPORTING FACTS -->
+
 <!-- FAQ -->
 <section id="faq" style="background:var(--surface);"><div class="wrap">
   <div class="sec-head"><span class="eyebrow">Frequently Asked Questions</span><h2>Patient questions answered</h2></div>
   <div class="grid-3" style="margin-top:32px;">
-    <div class="card"><div class="card-core"><h3>Is R N Multispeciality Hospital open 24x7?</h3><p class="desc" style="margin-top:10px;">Yes, we are open 24x7, 365 days a year with an active emergency department, ICU, and round-the-clock ambulance services.</p></div></div>
-    <div class="card"><div class="card-core"><h3>Are government schemes like PM-JAY and RGHS accepted?</h3><p class="desc" style="margin-top:10px;">Yes, we are NABH accredited and accept cashless treatments under Ayushman Bharat (PM-JAY), RGHS, MAA Yojana, Chiranjeevi, and all major TPAs.</p></div></div>
-    <div class="card"><div class="card-core"><h3>How can I book an appointment with a specialist?</h3><p class="desc" style="margin-top:10px;">You can book an appointment instantly via WhatsApp by clicking any "Book on WhatsApp" button on our site, or by calling our reception directly at <span class="js-phone-display">0141 239 0320</span>.</p></div></div>
+    <div class="card"><div class="card-core"><h3>Is R N Multispeciality Hospital open 24x7?</h3><p class="desc" style="margin-top:10px;">Yes. R N Multispeciality Hospital provides 24x7 emergency care in Nirman Nagar, Jaipur.</p></div></div>
+    <div class="card"><div class="card-core"><h3>Where is R N Multispeciality Hospital located?</h3><p class="desc" style="margin-top:10px;">R N Multispeciality Hospital is located in Nirman Nagar, Jaipur, near Mansarovar Metro Station.</p></div></div>
+    <div class="card"><div class="card-core"><h3>Does RNMH offer cashless insurance?</h3><p class="desc" style="margin-top:10px;">Yes. RNMH supports cashless insurance and TPA services, subject to policy and provider approval.</p></div></div>
+    <div class="card"><div class="card-core"><h3>What specialties are available at RNMH?</h3><p class="desc" style="margin-top:10px;">RNMH offers General &amp; Laparoscopic Surgery, Obstetrics &amp; Gynaecology, Pain Management &amp; Spine Care, Orthopaedics, Urology, Neurosurgery, ENT, General Medicine, and Pathology.</p></div></div>
+    <div class="card"><div class="card-core"><h3>How can I book an appointment?</h3><p class="desc" style="margin-top:10px;">Patients can book an appointment on WhatsApp or call <span class="js-phone-display">0141 239 0320</span>.</p></div></div>
   </div>
 </div></section>
 
@@ -303,20 +438,15 @@
 </div></section>
 
 <footer class="site"><div class="wrap">
-  <div class="grid">
+  <div class="grid footer-grid">
     <div>
-      <a class="brand" href="index.html" style="color:#fff"><img src="assets/img/logo.png" alt="RNMH logo" style="height:40px;background:#fff;border-radius:8px;padding:3px"><span style="color:#fff">RNMH</span></a>
-      <p style="margin-top:12px">R N Multispeciality Hospital, inspiring better health. A 50-bed, 24x7 multispeciality hospital in Nirman Nagar, Jaipur.</p>
+      <a class="brand" href="index.html" style="color:#fff"><img src="assets/img/logo.png" alt="R N Multispeciality Hospital logo" style="height:40px;background:#fff;border-radius:8px;padding:3px"><span style="color:#fff">R N Multispeciality Hospital</span></a>
+      <p style="margin-top:12px">50-bed multispeciality hospital in Nirman Nagar, Jaipur, near Mansarovar Metro Station.</p>
+      <p><b>Address:</b><br>109-110, Shiv Shakti Nagar, Kings Road, Nirman Nagar, Jaipur, Rajasthan 302019</p>
+      <p><b>Phone:</b> <a href="tel:+911412390320" class="js-phone-link"><span class="js-phone-display">0141 239 0320</span></a><br><b>Availability:</b> 24x7 emergency care</p>
     </div>
-    <div><h4>Specialities</h4>
-      <p><a href="services/general-surgery.html">General Surgery</a><br><a href="services/gynaecology.html">Gynaecology</a><br><a href="services/pain-spine.html">Pain &amp; Spine</a><br><a href="services/orthopaedics.html">Orthopaedics</a><br><a href="services/urology.html">Urology</a><br><a href="services/neurosurgery.html">Neurosurgery</a><br><a href="services/ent.html">ENT</a><br><a href="services/general-medicine.html">General Medicine</a><br><a href="services/pathology.html">Pathology</a></p>
-    </div>
-    <div><h4>Contact</h4>
-      <p>109-110, Shiv Shakti Nagar, Kings Road, Nirman Nagar, Jaipur 302019<br>
-      Call: <a href="tel:+911412390320" class="js-phone-link"><span class="js-phone-display">0141 239 0320</span></a><br>
-      <a href="#" class="js-wa">Message on WhatsApp →</a><br>
-      <a href="hi/index.html">हिन्दी में देखें</a></p>
-    </div>
+    <div><h4>Departments</h4><p><a href="services/general-surgery.html">General &amp; Laparoscopic Surgery</a><br><a href="services/gynaecology.html">Obstetrics &amp; Gynaecology</a><br><a href="services/pain-spine.html">Pain Management &amp; Spine Care</a><br><a href="services/orthopaedics.html">Orthopaedics</a><br><a href="services/urology.html">Urology</a><br><a href="services/neurosurgery.html">Neurosurgery</a><br><a href="services/ent.html">ENT</a><br><a href="services/general-medicine.html">General Medicine</a><br><a href="services/pathology.html">Pathology</a></p></div>
+    <div><h4>Important links</h4><p><a href="index.html">Home</a><br><a href="doctors.html">Doctors</a><br><a href="index.html#specialities">Services</a><br><a href="contact.html">Contact</a><br><a href="#" class="js-wa">Book Appointment</a></p></div>
   </div>
   <div class="copy">© <span data-year></span> R N Multispeciality Hospital. All rights reserved.</div>
 </div></footer>
