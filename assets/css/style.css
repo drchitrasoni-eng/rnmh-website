@@ -58,11 +58,14 @@ nav.menu a.btn-primary{color:#fff !important}
 .hero .wrap{display:grid;grid-template-columns:1.1fr .9fr;gap:40px;align-items:center;padding-top:54px;padding-bottom:54px}
 .hero h1{font-size:clamp(2rem,4.5vw,3.2rem)}
 .hero h1 .accent{color:var(--magenta)}
-.hero p.lead{margin:18px 0 26px}
-.hero-cta{display:flex;gap:12px;flex-wrap:wrap}
+.hero p.lead{margin:18px 0 16px}
+.hero-specialties { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px; }
+.btn-spec { background: #fff; border: 1px solid var(--line); color: var(--ink); font-size: 0.88rem; padding: 0.4rem 0.9rem; border-radius: 999px; transition: 0.2s; font-weight: 500; }
+.btn-spec:hover { border-color: var(--teal); color: var(--teal-deep); box-shadow: var(--shadow-soft); }
+.hero-cta{display:flex;gap:12px;flex-wrap:wrap;margin-top:24px}
 .hero-media{position:relative;border-radius:var(--radius-lg);overflow:hidden;box-shadow:var(--shadow)}
 .hero-media img{width:100%;height:100%;object-fit:cover;aspect-ratio:4/3}
-.trust{display:flex;gap:18px;margin-top:22px;flex-wrap:wrap;align-items:center;color:var(--muted);font-size:.9rem}
+.trust{display:flex;gap:10px;flex-wrap:wrap;align-items:center;color:var(--muted);font-size:.9rem}
 .trust b{color:var(--ink)}
 
 /* stat strip */
@@ -112,7 +115,8 @@ nav.menu a.btn-primary{color:#fff !important}
 .quote{background:#fff;border:1px solid var(--line);border-left:4px solid var(--magenta);border-radius:14px;padding:20px}
 .quote p{font-style:italic;color:var(--ink)}
 .quote .who{margin-top:10px;font-weight:700;font-size:.9rem;color:var(--teal-deep)}
-.rating-badge{display:inline-flex;align-items:center;gap:10px;background:#fff;border:1px solid var(--line);border-radius:999px;padding:.5rem 1rem;box-shadow:var(--shadow-soft)}
+.rating-badge{display:inline-flex;align-items:center;gap:6px;background:#fff;border:1px solid var(--line);border-radius:999px;padding:.4rem .9rem;box-shadow:var(--shadow-soft);font-size:.88rem;color:var(--muted)}
+.rating-badge b{color:var(--ink)}
 .rating-badge .stars{color:var(--gold);font-weight:700}
 
 /* booking + contact */
@@ -178,6 +182,8 @@ ul.ticks li::before{content:"✓";position:absolute;left:0;color:var(--teal-deep
   .grid-3,.gallery,.fac-grid{grid-template-columns:1fr}
   .video-grid{grid-template-columns:1fr}
   .field-row{grid-template-columns:1fr}
+  .hero-cta { flex-direction: column; }
+  .hero-cta .btn { width: 100%; justify-content: center; }
 }
 
 /* call-first CTA (contact page) */
