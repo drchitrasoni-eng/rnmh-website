@@ -243,3 +243,49 @@ ul.ticks li::before{content:"✓";position:absolute;left:0;color:var(--teal-deep
 .footer-grid p{margin-bottom:10px}
 @media(max-width:900px){.why-list,.link-grid,.owner-grid{grid-template-columns:repeat(2,1fr)}.fact-table th{width:42%}}
 @media(max-width:520px){.why-list,.link-grid,.owner-grid{grid-template-columns:1fr}.fact-table th,.fact-table td{display:block;width:100%}.fact-table th{border-bottom:0}.fact-table td{padding-top:6px}}
+
+
+/* FAQ Accordion */
+details.faq-card {
+    background: #fff;
+    border: 1px solid var(--line);
+    border-radius: var(--r-out);
+    margin-bottom: 16px;
+    padding: 16px 20px;
+    transition: all 0.2s ease;
+}
+details.faq-card[open] {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+details.faq-card summary {
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--ink);
+    cursor: pointer;
+    list-style: none; /* remove default arrow */
+    position: relative;
+    padding-right: 24px;
+}
+details.faq-card summary::-webkit-details-marker {
+    display: none;
+}
+details.faq-card summary::after {
+    content: "+";
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 24px;
+    font-weight: 400;
+    color: var(--primary);
+    transition: transform 0.2s;
+}
+details.faq-card[open] summary::after {
+    content: "\2212"; /* minus sign */
+}
+details.faq-card .desc {
+    margin-top: 12px;
+    color: var(--ink-soft);
+    line-height: 1.6;
+}
