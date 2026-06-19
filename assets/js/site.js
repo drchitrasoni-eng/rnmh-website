@@ -65,12 +65,14 @@ function openWhatsApp(number, message){
 function quickBookMessage(target){
   if(isHindi){
     return 'नमस्ते, मुझे R N Multispeciality Hospital में अपॉइंटमेंट चाहिए।'
-         + '\nनाम: '
-         + '\nडॉक्टर / विभाग: ' + (target || 'सामान्य पूछताछ');
+         + '\nmera नाम: ______'
+         + '\nmera number: ______'
+         + '\nmujhe डॉक्टर / विभाग se milna hai : ' + (target || '______');
   }
   return 'Hello, I would like to book an appointment at R N Multispeciality Hospital.'
-       + '\nName: '
-       + '\nDr / Department: ' + (target || 'General enquiry');
+       + '\nMy Name is :  ______'
+       + '\nMy number is: ______'
+       + '\nI want to see Dr / Department: ' + (target || '______');
 }
 
 // ---- 1-click WhatsApp links/buttons (class "js-wa") ----
