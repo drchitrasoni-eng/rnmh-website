@@ -26,22 +26,28 @@
     "biography": "Dr Pavan Jain treats brain tumours, complex and minimally invasive spine surgery, scoliosis, spinal tumours, traumatic spine fractures and degenerative spine disease. He favours minimally invasive, motion-preserving techniques and treats surgery as the last resort, guiding patients through both surgical and non-surgical options.",
     "clinicalPhilosophy": "Every patient deserves compassionate care, clear communication, and the most effective, least invasive treatment plan available.",
     "areasOfExpertise": [
-        "Neurosurgery \u2014 Brain & Spine",
-        "Patient Education",
-        "Advanced Diagnostics"
+        "Neurosurgery",
+        "Brain Tumours",
+        "Complex Spine Surgery",
+        "Scoliosis"
     ],
     "conditionsTreated": [
-        "Condition 1",
-        "Condition 2",
-        "Condition 3"
+        "Brain Tumours",
+        "Traumatic Spine Fractures",
+        "Degenerative Spine Disease",
+        "Spinal Tumours"
     ],
     "proceduresPerformed": [
-        "Procedure A",
-        "Procedure B"
+        "Minimally Invasive Spine Surgery",
+        "Tumour Excision",
+        "Spinal Decompression",
+        "Motion-preserving Surgery"
     ],
     "commonReasons": [
-        "Symptom 1",
-        "Symptom 2"
+        "Severe chronic back pain with weakness",
+        "Headaches with neurological signs",
+        "Spinal injuries",
+        "Brain tumours"
     ],
     "faqs": [
         {

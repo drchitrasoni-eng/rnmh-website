@@ -27,21 +27,27 @@
     "clinicalPhilosophy": "Every patient deserves compassionate care, clear communication, and the most effective, least invasive treatment plan available.",
     "areasOfExpertise": [
         "ENT",
-        "Patient Education",
-        "Advanced Diagnostics"
+        "Otolaryngology",
+        "Head and Neck Care"
     ],
     "conditionsTreated": [
-        "Condition 1",
-        "Condition 2",
-        "Condition 3"
+        "Ear Infections",
+        "Hearing Loss",
+        "Chronic Sinusitis",
+        "Tonsillitis",
+        "Vertigo"
     ],
     "proceduresPerformed": [
-        "Procedure A",
-        "Procedure B"
+        "Sinus Surgery",
+        "Tonsillectomy",
+        "Ear Drum Repair (Tympanoplasty)",
+        "Hearing Evaluation"
     ],
     "commonReasons": [
-        "Symptom 1",
-        "Symptom 2"
+        "Persistent earache",
+        "Chronic nasal congestion",
+        "Sore throat",
+        "Hearing difficulties"
     ],
     "faqs": [
         {

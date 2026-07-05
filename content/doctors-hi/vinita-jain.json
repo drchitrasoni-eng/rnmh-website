@@ -1,0 +1,86 @@
+{
+    "id": "vinita-jain",
+    "lang": "hi",
+    "meta": {
+        "title": "डॉ. Vinita Jain - Consultant Pathologist जयपुर में | RNMH",
+        "description": "R N Multispeciality Hospital जयपुर में विशेषज्ञ डॉक्टर से परामर्श लें।",
+        "canonicalUrl": "https://rnmh.in/hi/doctors/vinita-jain.html"
+    },
+    "hero": {
+        "name": "डॉ. विनीता जैन",
+        "title": "कंसल्टेंट पैथोलॉजिस्ट",
+        "qualifications": "MBBS, MD (Pathology)",
+        "image": "../assets/img/docs/vinita-jain.webp",
+        "experience": "20+  वर्षों का अनुभव"
+    },
+    "quickFacts": [
+        {
+            "label": "अनुभव",
+            "value": "20+  वर्षों का अनुभव"
+        },
+        {
+            "label": "विभाग",
+            "value": "Pathology & Diagnostics"
+        }
+    ],
+    "biography": "डॉ. विनीता जैन एक अनुभवी Consultant Pathologist हैं जो जयपुर के R N Multispeciality Hospital में अपनी सेवाएं प्रदान करते हैं।",
+    "clinicalPhilosophy": "हर मरीज को करुणा, स्पष्ट संवाद और सबसे प्रभावी उपचार मिलना चाहिए।",
+    "areasOfExpertise": [
+        "पैथोलॉजी",
+        "नैदानिक परीक्षण",
+        "हिस्टोपैथोलॉजी"
+    ],
+    "conditionsTreated": [
+        "Blood Disorders",
+        "Infections",
+        "Metabolic Disorders",
+        "Cancer Diagnostics"
+    ],
+    "proceduresPerformed": [
+        "Blood Tests",
+        "Histopathology",
+        "Cytology",
+        "Specialized Investigations"
+    ],
+    "commonReasons": [
+        "Routine health check-ups",
+        "Pre-surgical testing",
+        "Diagnostic blood work",
+        "Monitoring chronic conditions"
+    ],
+    "faqs": [
+        {
+            "question": "मैं डॉ. विनीता जैन के साथ अपॉइंटमेंट कैसे बुक कर सकता हूँ?",
+            "answer": "आप डॉ. विनीता जैन के साथ अपॉइंटमेंट बुक करने के लिए हमारे रिसेप्शन पर कॉल कर सकते हैं या इस पेज के माध्यम से हमें व्हाट्सएप पर मैसेज कर सकते हैं।"
+        }
+    ],
+    "videos": [],
+    "reviews": {
+        "rating": "4.9",
+        "count": "150",
+        "featured": [
+            {
+                "name": "Anonymous Patient",
+                "text": "Dr Vinita Jain provided excellent care and explained everything clearly."
+            }
+        ]
+    },
+    "publications": [
+        "Member of Indian Medical Association (IMA)"
+    ],
+    "languages": [
+        "English",
+        "Hindi"
+    ],
+    "opdSchedule": "Monday to Saturday, 10:00 AM - 2:00 PM",
+    "nearbyAreas": [
+        "Nirman Nagar",
+        "Mansarovar",
+        "Kings Road",
+        "Shyam Nagar",
+        "Brijlalpura"
+    ],
+    "relatedTreatments": [],
+    "relatedBlogs": [],
+    "sameAs": []
+}

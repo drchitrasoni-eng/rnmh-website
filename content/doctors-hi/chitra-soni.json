@@ -1,0 +1,91 @@
+{
+    "id": "chitra-soni",
+    "lang": "hi",
+    "meta": {
+        "title": "डॉ. Chitra Soni - Obstetrics, Gynaecology & Fertility विशेषज्ञ जयपुर में | RNMH",
+        "description": "R N Multispeciality Hospital जयपुर में विशेषज्ञ डॉक्टर से परामर्श लें।",
+        "canonicalUrl": "https://rnmh.in/hi/doctors/chitra-soni.html"
+    },
+    "hero": {
+        "name": "डॉ. चित्रा सोनी",
+        "title": "प्रसूति, स्त्री रोग और फर्टिलिटी विशेषज्ञ",
+        "qualifications": "MBBS, MS (Obstetrics & Gynaecology) · Cosmetic Gynaecologist (Laser) · Infertility Specialist",
+        "image": "../assets/img/docs/chitra-soni.webp",
+        "experience": "15+  वर्षों का अनुभव"
+    },
+    "quickFacts": [
+        {
+            "label": "अनुभव",
+            "value": "15+  वर्षों का अनुभव"
+        },
+        {
+            "label": "विभाग",
+            "value": "Obstetrics, Gynaecology & Fertility"
+        }
+    ],
+    "biography": "डॉ. चित्रा सोनी एक अनुभवी Obstetrics, Gynaecology & Fertility Specialist हैं जो जयपुर के R N Multispeciality Hospital में अपनी सेवाएं प्रदान करते हैं।",
+    "clinicalPhilosophy": "हर मरीज को करुणा, स्पष्ट संवाद और सबसे प्रभावी उपचार मिलना चाहिए।",
+    "areasOfExpertise": [
+        "प्रसूति",
+        "स्त्री रोग",
+        "बांझपन उपचार",
+        "लेज़र कॉस्मेटिक गायनेकोलॉजी"
+    ],
+    "conditionsTreated": [
+        "High-risk Pregnancy",
+        "Ovarian Cysts",
+        "Uterine Fibroids",
+        "Urinary Incontinence",
+        "Infertility"
+    ],
+    "proceduresPerformed": [
+        "Normal & Painless Delivery",
+        "Caesarean Section",
+        "Laparoscopic Hysterectomy",
+        "Hysteroscopy",
+        "Laser Vaginal Rejuvenation"
+    ],
+    "commonReasons": [
+        "Pregnancy check-ups",
+        "Irregular periods",
+        "Pelvic pain",
+        "Difficulty conceiving"
+    ],
+    "faqs": [
+        {
+            "question": "मैं डॉ. चित्रा सोनी के साथ अपॉइंटमेंट कैसे बुक कर सकता हूँ?",
+            "answer": "आप डॉ. चित्रा सोनी के साथ अपॉइंटमेंट बुक करने के लिए हमारे रिसेप्शन पर कॉल कर सकते हैं या इस पेज के माध्यम से हमें व्हाट्सएप पर मैसेज कर सकते हैं।"
+        }
+    ],
+    "videos": [],
+    "reviews": {
+        "rating": "4.9",
+        "count": "150",
+        "featured": [
+            {
+                "name": "Anonymous Patient",
+                "text": "Dr Chitra Soni provided excellent care and explained everything clearly."
+            }
+        ]
+    },
+    "publications": [
+        "Member of Indian Medical Association (IMA)"
+    ],
+    "languages": [
+        "English",
+        "Hindi"
+    ],
+    "opdSchedule": "Monday to Saturday, 10:00 AM - 2:00 PM",
+    "nearbyAreas": [
+        "Nirman Nagar",
+        "Mansarovar",
+        "Kings Road",
+        "Shyam Nagar",
+        "Brijlalpura"
+    ],
+    "relatedTreatments": [],
+    "relatedBlogs": [],
+    "sameAs": [
+        "https://www.youtube.com/@dr_chitra_soni"
+    ]
+}

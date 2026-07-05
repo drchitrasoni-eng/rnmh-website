@@ -1,0 +1,88 @@
+{
+    "id": "rn-daga",
+    "lang": "hi",
+    "meta": {
+        "title": "डॉ. R N Daga - Urologist & Andrologist जयपुर में | RNMH",
+        "description": "R N Multispeciality Hospital जयपुर में विशेषज्ञ डॉक्टर से परामर्श लें।",
+        "canonicalUrl": "https://rnmh.in/hi/doctors/rn-daga.html"
+    },
+    "hero": {
+        "name": "डॉ. आर एन डागा",
+        "title": "यूरोलॉजिस्ट और एंड्रोलॉजिस्ट",
+        "qualifications": "MBBS, MS (General Surgery), M.Ch (Urology)",
+        "image": "../assets/img/docs/rn-daga.webp",
+        "experience": "20+  वर्षों का अनुभव"
+    },
+    "quickFacts": [
+        {
+            "label": "अनुभव",
+            "value": "20+  वर्षों का अनुभव"
+        },
+        {
+            "label": "विभाग",
+            "value": "Urology & Andrology"
+        }
+    ],
+    "biography": "डॉ. आर एन डागा एक अनुभवी Urologist & Andrologist हैं जो जयपुर के R N Multispeciality Hospital में अपनी सेवाएं प्रदान करते हैं।",
+    "clinicalPhilosophy": "हर मरीज को करुणा, स्पष्ट संवाद और सबसे प्रभावी उपचार मिलना चाहिए।",
+    "areasOfExpertise": [
+        "यूरोलॉजी",
+        "एंड्रोलॉजी",
+        "एंडोयूरोलॉजी",
+        "यूरोलॉजिकल कैंसर"
+    ],
+    "conditionsTreated": [
+        "Kidney Stones",
+        "Enlarged Prostate (BPH)",
+        "Urinary Tract Infections",
+        "Prostate Cancer"
+    ],
+    "proceduresPerformed": [
+        "URS",
+        "PCNL",
+        "TURP",
+        "TURBT",
+        "Laser Stone Removal"
+    ],
+    "commonReasons": [
+        "Blood in urine",
+        "Difficulty urinating",
+        "Flank pain",
+        "Frequent urination"
+    ],
+    "faqs": [
+        {
+            "question": "मैं डॉ. आर एन डागा के साथ अपॉइंटमेंट कैसे बुक कर सकता हूँ?",
+            "answer": "आप डॉ. आर एन डागा के साथ अपॉइंटमेंट बुक करने के लिए हमारे रिसेप्शन पर कॉल कर सकते हैं या इस पेज के माध्यम से हमें व्हाट्सएप पर मैसेज कर सकते हैं।"
+        }
+    ],
+    "videos": [],
+    "reviews": {
+        "rating": "4.9",
+        "count": "150",
+        "featured": [
+            {
+                "name": "Anonymous Patient",
+                "text": "Dr R N Daga provided excellent care and explained everything clearly."
+            }
+        ]
+    },
+    "publications": [
+        "Member of Indian Medical Association (IMA)"
+    ],
+    "languages": [
+        "English",
+        "Hindi"
+    ],
+    "opdSchedule": "Monday to Saturday, 10:00 AM - 2:00 PM",
+    "nearbyAreas": [
+        "Nirman Nagar",
+        "Mansarovar",
+        "Kings Road",
+        "Shyam Nagar",
+        "Brijlalpura"
+    ],
+    "relatedTreatments": [],
+    "relatedBlogs": [],
+    "sameAs": []
+}

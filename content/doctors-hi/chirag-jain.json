@@ -1,0 +1,87 @@
+{
+    "id": "chirag-jain",
+    "lang": "hi",
+    "meta": {
+        "title": "डॉ. Chirag Jain - Orthopaedic, Joint Replacement & Trauma Surgeon जयपुर में | RNMH",
+        "description": "R N Multispeciality Hospital जयपुर में विशेषज्ञ डॉक्टर से परामर्श लें।",
+        "canonicalUrl": "https://rnmh.in/hi/doctors/chirag-jain.html"
+    },
+    "hero": {
+        "name": "डॉ. चिराग जैन",
+        "title": "ऑर्थोपेडिक, जॉइंट रिप्लेसमेंट और ट्रॉमा सर्जन",
+        "qualifications": "MBBS, MS (Orthopaedics)",
+        "image": "../assets/img/docs/chirag-jain.webp",
+        "experience": "10+  वर्षों का अनुभव"
+    },
+    "quickFacts": [
+        {
+            "label": "अनुभव",
+            "value": "10+  वर्षों का अनुभव"
+        },
+        {
+            "label": "विभाग",
+            "value": "Orthopaedics & Joint Replacement"
+        }
+    ],
+    "biography": "डॉ. चिराग जैन एक अनुभवी Orthopaedic, Joint Replacement & Trauma Surgeon हैं जो जयपुर के R N Multispeciality Hospital में अपनी सेवाएं प्रदान करते हैं।",
+    "clinicalPhilosophy": "हर मरीज को करुणा, स्पष्ट संवाद और सबसे प्रभावी उपचार मिलना चाहिए।",
+    "areasOfExpertise": [
+        "हड्डी रोग",
+        "जोड़ प्रत्यारोपण",
+        "आर्थ्रोस्कोपी",
+        "ट्रॉमा सर्जरी"
+    ],
+    "conditionsTreated": [
+        "Osteoarthritis",
+        "Bone Fractures",
+        "Sports Injuries",
+        "Ligament Tears (ACL)"
+    ],
+    "proceduresPerformed": [
+        "Total Knee Replacement",
+        "Hip Replacement",
+        "Arthroscopic Surgery",
+        "Fracture Fixation"
+    ],
+    "commonReasons": [
+        "Severe joint pain",
+        "Difficulty walking",
+        "Sports-related joint injuries",
+        "Broken bones"
+    ],
+    "faqs": [
+        {
+            "question": "मैं डॉ. चिराग जैन के साथ अपॉइंटमेंट कैसे बुक कर सकता हूँ?",
+            "answer": "आप डॉ. चिराग जैन के साथ अपॉइंटमेंट बुक करने के लिए हमारे रिसेप्शन पर कॉल कर सकते हैं या इस पेज के माध्यम से हमें व्हाट्सएप पर मैसेज कर सकते हैं।"
+        }
+    ],
+    "videos": [],
+    "reviews": {
+        "rating": "4.9",
+        "count": "150",
+        "featured": [
+            {
+                "name": "Anonymous Patient",
+                "text": "Dr Chirag Jain provided excellent care and explained everything clearly."
+            }
+        ]
+    },
+    "publications": [
+        "Member of Indian Medical Association (IMA)"
+    ],
+    "languages": [
+        "English",
+        "Hindi"
+    ],
+    "opdSchedule": "Monday to Saturday, 10:00 AM - 2:00 PM",
+    "nearbyAreas": [
+        "Nirman Nagar",
+        "Mansarovar",
+        "Kings Road",
+        "Shyam Nagar",
+        "Brijlalpura"
+    ],
+    "relatedTreatments": [],
+    "relatedBlogs": [],
+    "sameAs": []
+}

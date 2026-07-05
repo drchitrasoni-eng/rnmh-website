@@ -1,0 +1,87 @@
+{
+    "id": "pavan-jain",
+    "lang": "hi",
+    "meta": {
+        "title": "डॉ. Pavan Jain - Neurosurgeon — Brain & Spine जयपुर में | RNMH",
+        "description": "R N Multispeciality Hospital जयपुर में विशेषज्ञ डॉक्टर से परामर्श लें।",
+        "canonicalUrl": "https://rnmh.in/hi/doctors/pavan-jain.html"
+    },
+    "hero": {
+        "name": "डॉ. पवन जैन",
+        "title": "न्यूरोसर्जन — ब्रेन और स्पाइन",
+        "qualifications": "MBBS, MS (SMS Medical College), M.Ch Neurosurgery (GMC Goa)",
+        "image": "../assets/img/docs/pavan-jain.webp",
+        "experience": "15+  वर्षों का अनुभव"
+    },
+    "quickFacts": [
+        {
+            "label": "अनुभव",
+            "value": "15+  वर्षों का अनुभव"
+        },
+        {
+            "label": "विभाग",
+            "value": "Neurosurgery — Brain & Spine"
+        }
+    ],
+    "biography": "डॉ. पवन जैन एक अनुभवी Neurosurgeon — Brain & Spine हैं जो जयपुर के R N Multispeciality Hospital में अपनी सेवाएं प्रदान करते हैं।",
+    "clinicalPhilosophy": "हर मरीज को करुणा, स्पष्ट संवाद और सबसे प्रभावी उपचार मिलना चाहिए।",
+    "areasOfExpertise": [
+        "न्यूरोसर्जरी",
+        "ब्रेन ट्यूमर",
+        "जटिल स्पाइन सर्जरी",
+        "स्कोलियोसिस"
+    ],
+    "conditionsTreated": [
+        "Brain Tumours",
+        "Traumatic Spine Fractures",
+        "Degenerative Spine Disease",
+        "Spinal Tumours"
+    ],
+    "proceduresPerformed": [
+        "Minimally Invasive Spine Surgery",
+        "Tumour Excision",
+        "Spinal Decompression",
+        "Motion-preserving Surgery"
+    ],
+    "commonReasons": [
+        "Severe chronic back pain with weakness",
+        "Headaches with neurological signs",
+        "Spinal injuries",
+        "Brain tumours"
+    ],
+    "faqs": [
+        {
+            "question": "मैं डॉ. पवन जैन के साथ अपॉइंटमेंट कैसे बुक कर सकता हूँ?",
+            "answer": "आप डॉ. पवन जैन के साथ अपॉइंटमेंट बुक करने के लिए हमारे रिसेप्शन पर कॉल कर सकते हैं या इस पेज के माध्यम से हमें व्हाट्सएप पर मैसेज कर सकते हैं।"
+        }
+    ],
+    "videos": [],
+    "reviews": {
+        "rating": "4.9",
+        "count": "150",
+        "featured": [
+            {
+                "name": "Anonymous Patient",
+                "text": "Dr Pavan Jain provided excellent care and explained everything clearly."
+            }
+        ]
+    },
+    "publications": [
+        "Member of Indian Medical Association (IMA)"
+    ],
+    "languages": [
+        "English",
+        "Hindi"
+    ],
+    "opdSchedule": "Monday to Saturday, 10:00 AM - 2:00 PM",
+    "nearbyAreas": [
+        "Nirman Nagar",
+        "Mansarovar",
+        "Kings Road",
+        "Shyam Nagar",
+        "Brijlalpura"
+    ],
+    "relatedTreatments": [],
+    "relatedBlogs": [],
+    "sameAs": []
+}

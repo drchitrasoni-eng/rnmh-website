@@ -27,21 +27,29 @@
     "clinicalPhilosophy": "Every patient deserves compassionate care, clear communication, and the most effective, least invasive treatment plan available.",
     "areasOfExpertise": [
         "General Surgery",
-        "Patient Education",
-        "Advanced Diagnostics"
+        "Laparoscopic Surgery",
+        "Proctology",
+        "Bariatric & Metabolic Surgery"
     ],
     "conditionsTreated": [
-        "Condition 1",
-        "Condition 2",
-        "Condition 3"
+        "Gall Bladder Stones",
+        "Hernia",
+        "Appendicitis",
+        "Piles, Fissure & Fistula",
+        "Breast & Thyroid Diseases"
     ],
     "proceduresPerformed": [
-        "Procedure A",
-        "Procedure B"
+        "Laparoscopic Cholecystectomy",
+        "Hernia Repair",
+        "Laser Proctology",
+        "ZSR Circumcision",
+        "Laser Varicose Veins"
     ],
     "commonReasons": [
-        "Symptom 1",
-        "Symptom 2"
+        "Severe abdominal pain",
+        "Swelling or lumps",
+        "Chronic constipation or bleeding",
+        "Varicose veins"
     ],
     "faqs": [
         {

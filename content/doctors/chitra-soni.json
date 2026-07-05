@@ -26,22 +26,30 @@
     "biography": "Dr Chitra Soni cares for women through every stage of health: normal and painless delivery, caesarean section, high-risk pregnancy, laparoscopic gynaecological surgery (hysterectomy, myomectomy, ovarian cyst), diagnostic and operative hysteroscopy, infertility treatment and laser cosmetic gynaecology. She is known for listening, explaining clearly and treating each patient with warmth.",
     "clinicalPhilosophy": "Every patient deserves compassionate care, clear communication, and the most effective, least invasive treatment plan available.",
     "areasOfExpertise": [
-        "Obstetrics, Gynaecology & Fertility",
-        "Patient Education",
-        "Advanced Diagnostics"
+        "Obstetrics",
+        "Gynaecology",
+        "Infertility Treatment",
+        "Laser Cosmetic Gynaecology"
     ],
     "conditionsTreated": [
-        "Condition 1",
-        "Condition 2",
-        "Condition 3"
+        "High-risk Pregnancy",
+        "Ovarian Cysts",
+        "Uterine Fibroids",
+        "Urinary Incontinence",
+        "Infertility"
     ],
     "proceduresPerformed": [
-        "Procedure A",
-        "Procedure B"
+        "Normal & Painless Delivery",
+        "Caesarean Section",
+        "Laparoscopic Hysterectomy",
+        "Hysteroscopy",
+        "Laser Vaginal Rejuvenation"
     ],
     "commonReasons": [
-        "Symptom 1",
-        "Symptom 2"
+        "Pregnancy check-ups",
+        "Irregular periods",
+        "Pelvic pain",
+        "Difficulty conceiving"
     ],
     "faqs": [
         {

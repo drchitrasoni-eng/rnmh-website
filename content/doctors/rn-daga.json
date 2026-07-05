@@ -26,22 +26,29 @@
     "biography": "Dr Ram Naresh Daga specialises in minimally invasive and laser urological surgery, including treatment for kidney stones, prostate enlargement and urological cancers (URS, PCNL, TURP, TURBT). A former Assistant Professor of General Surgery, he has handled well over a thousand such cases and takes care to choose the least invasive option.",
     "clinicalPhilosophy": "Every patient deserves compassionate care, clear communication, and the most effective, least invasive treatment plan available.",
     "areasOfExpertise": [
-        "Urology & Andrology",
-        "Patient Education",
-        "Advanced Diagnostics"
+        "Urology",
+        "Andrology",
+        "Endourology",
+        "Urological Cancers"
     ],
     "conditionsTreated": [
-        "Condition 1",
-        "Condition 2",
-        "Condition 3"
+        "Kidney Stones",
+        "Enlarged Prostate (BPH)",
+        "Urinary Tract Infections",
+        "Prostate Cancer"
     ],
     "proceduresPerformed": [
-        "Procedure A",
-        "Procedure B"
+        "URS",
+        "PCNL",
+        "TURP",
+        "TURBT",
+        "Laser Stone Removal"
     ],
     "commonReasons": [
-        "Symptom 1",
-        "Symptom 2"
+        "Blood in urine",
+        "Difficulty urinating",
+        "Flank pain",
+        "Frequent urination"
     ],
     "faqs": [
         {
