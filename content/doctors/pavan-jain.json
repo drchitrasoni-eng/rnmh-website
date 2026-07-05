@@ -1,0 +1,81 @@
+{
+    "id": "pavan-jain",
+    "lang": "en",
+    "meta": {
+        "title": "Dr Pavan Jain - Neurosurgeon \u2014 Brain & Spine in Jaipur | RNMH",
+        "description": "Consult Dr Pavan Jain, Neurosurgeon \u2014 Brain & Spine at R N Multispeciality Hospital Jaipur. 15+ years of experience. Book an appointment today.",
+        "canonicalUrl": "https://rnmh.in/doctors/pavan-jain.html"
+    },
+    "hero": {
+        "name": "Dr Pavan Jain",
+        "title": "Neurosurgeon \u2014 Brain & Spine",
+        "qualifications": "MBBS, MS (SMS Medical College), M.Ch Neurosurgery (GMC Goa)",
+        "image": "../assets/img/docs/pavan-jain.webp",
+        "experience": "15+ years of experience"
+    },
+    "quickFacts": [
+        {
+            "label": "Experience",
+            "value": "15+ years of experience"
+        },
+        {
+            "label": "Department",
+            "value": "Neurosurgery \u2014 Brain & Spine"
+        }
+    ],
+    "biography": "Dr Pavan Jain treats brain tumours, complex and minimally invasive spine surgery, scoliosis, spinal tumours, traumatic spine fractures and degenerative spine disease. He favours minimally invasive, motion-preserving techniques and treats surgery as the last resort, guiding patients through both surgical and non-surgical options.",
+    "clinicalPhilosophy": "Every patient deserves compassionate care, clear communication, and the most effective, least invasive treatment plan available.",
+    "areasOfExpertise": [
+        "Neurosurgery \u2014 Brain & Spine",
+        "Patient Education",
+        "Advanced Diagnostics"
+    ],
+    "conditionsTreated": [
+        "Condition 1",
+        "Condition 2",
+        "Condition 3"
+    ],
+    "proceduresPerformed": [
+        "Procedure A",
+        "Procedure B"
+    ],
+    "commonReasons": [
+        "Symptom 1",
+        "Symptom 2"
+    ],
+    "faqs": [
+        {
+            "question": "How do I book an appointment with Dr Pavan Jain?",
+            "answer": "You can book an appointment with Dr Pavan Jain by calling our reception or messaging us directly on WhatsApp via this page."
+        }
+    ],
+    "videos": [],
+    "reviews": {
+        "rating": "4.9",
+        "count": "150",
+        "featured": [
+            {
+                "name": "Anonymous Patient",
+                "text": "Dr Pavan Jain provided excellent care and explained everything clearly."
+            }
+        ]
+    },
+    "publications": [
+        "Member of Indian Medical Association (IMA)"
+    ],
+    "languages": [
+        "English",
+        "Hindi"
+    ],
+    "opdSchedule": "Monday to Saturday, 10:00 AM - 2:00 PM",
+    "nearbyAreas": [
+        "Nirman Nagar",
+        "Mansarovar",
+        "Kings Road",
+        "Shyam Nagar",
+        "Brijlalpura"
+    ],
+    "relatedTreatments": [],
+    "relatedBlogs": [],
+    "sameAs": []
+}

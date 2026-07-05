@@ -1,0 +1,81 @@
+{
+    "id": "ns-rathore",
+    "lang": "en",
+    "meta": {
+        "title": "Dr N S Rathore - ENT Surgeon in Jaipur | RNMH",
+        "description": "Consult Dr N S Rathore, ENT Surgeon at R N Multispeciality Hospital Jaipur. 10+ years of experience. Book an appointment today.",
+        "canonicalUrl": "https://rnmh.in/doctors/ns-rathore.html"
+    },
+    "hero": {
+        "name": "Dr N S Rathore",
+        "title": "ENT Surgeon",
+        "qualifications": "MBBS, MS (ENT)",
+        "image": "../assets/img/docs/ns-rathore.webp",
+        "experience": "10+ years of experience"
+    },
+    "quickFacts": [
+        {
+            "label": "Experience",
+            "value": "10+ years of experience"
+        },
+        {
+            "label": "Department",
+            "value": "ENT"
+        }
+    ],
+    "biography": "Dr Natwar Singh Rathore treats the full range of ear, nose and throat conditions for adults and children, from infections, hearing and sinus problems to ENT surgery. Patients value his clear explanations and unhurried, reassuring manner. He consults in English, Hindi and Jaipuri.",
+    "clinicalPhilosophy": "Every patient deserves compassionate care, clear communication, and the most effective, least invasive treatment plan available.",
+    "areasOfExpertise": [
+        "ENT",
+        "Patient Education",
+        "Advanced Diagnostics"
+    ],
+    "conditionsTreated": [
+        "Condition 1",
+        "Condition 2",
+        "Condition 3"
+    ],
+    "proceduresPerformed": [
+        "Procedure A",
+        "Procedure B"
+    ],
+    "commonReasons": [
+        "Symptom 1",
+        "Symptom 2"
+    ],
+    "faqs": [
+        {
+            "question": "How do I book an appointment with Dr N S Rathore?",
+            "answer": "You can book an appointment with Dr N S Rathore by calling our reception or messaging us directly on WhatsApp via this page."
+        }
+    ],
+    "videos": [],
+    "reviews": {
+        "rating": "4.9",
+        "count": "150",
+        "featured": [
+            {
+                "name": "Anonymous Patient",
+                "text": "Dr N S Rathore provided excellent care and explained everything clearly."
+            }
+        ]
+    },
+    "publications": [
+        "Member of Indian Medical Association (IMA)"
+    ],
+    "languages": [
+        "English",
+        "Hindi"
+    ],
+    "opdSchedule": "Monday to Saturday, 10:00 AM - 2:00 PM",
+    "nearbyAreas": [
+        "Nirman Nagar",
+        "Mansarovar",
+        "Kings Road",
+        "Shyam Nagar",
+        "Brijlalpura"
+    ],
+    "relatedTreatments": [],
+    "relatedBlogs": [],
+    "sameAs": []
+}
