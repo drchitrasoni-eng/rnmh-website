@@ -1,0 +1,25 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://rnmh.in/api/v1",
+      "service-desc": [
+        {
+          "href": "https://rnmh.in/openapi.yaml",
+          "type": "application/vnd.oai.openapi+yaml;version=3.0"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://rnmh.in/docs/api",
+          "type": "text/html"
+        }
+      ],
+      "status": [
+        {
+          "href": "https://rnmh.in/api/v1/health",
+          "type": "application/health+json"
+        }
+      ]
+    }
+  ]
+}

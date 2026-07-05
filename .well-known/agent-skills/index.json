@@ -1,0 +1,12 @@
+{
+  "$schema": "https://agentskills.io/schema/index.v0.2.0.json",
+  "skills": [
+    {
+      "name": "RNMH Hospital Services Search",
+      "type": "openapi",
+      "description": "API for searching hospital services and doctors.",
+      "url": "https://rnmh.in/openapi.yaml",
+      "digest": "sha256:dummy-digest"
+    }
+  ]
+}

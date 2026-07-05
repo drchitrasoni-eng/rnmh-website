@@ -24,3 +24,6 @@ User-agent: Bingbot
 Allow: /
 
 Sitemap: https://rnmh.in/sitemap.xml
+
+# AI Content Signals
+Content-Signal: ai-train=no, search=yes, ai-input=no
