@@ -1,0 +1,83 @@
+{
+    "id": "chitra-soni",
+    "lang": "en",
+    "meta": {
+        "title": "Dr Chitra Soni - Obstetrics, Gynaecology & Fertility Specialist in Jaipur | RNMH",
+        "description": "Consult Dr Chitra Soni, Obstetrics, Gynaecology & Fertility Specialist at R N Multispeciality Hospital Jaipur. 15+ years of experience. Book an appointment today.",
+        "canonicalUrl": "https://rnmh.in/doctors/chitra-soni.html"
+    },
+    "hero": {
+        "name": "Dr Chitra Soni",
+        "title": "Obstetrics, Gynaecology & Fertility Specialist",
+        "qualifications": "MBBS, MS (Obstetrics & Gynaecology) \u00b7 Cosmetic Gynaecologist (Laser) \u00b7 Infertility Specialist",
+        "image": "../assets/img/docs/chitra-soni.webp",
+        "experience": "15+ years of experience"
+    },
+    "quickFacts": [
+        {
+            "label": "Experience",
+            "value": "15+ years of experience"
+        },
+        {
+            "label": "Department",
+            "value": "Obstetrics, Gynaecology & Fertility"
+        }
+    ],
+    "biography": "Dr Chitra Soni cares for women through every stage of health: normal and painless delivery, caesarean section, high-risk pregnancy, laparoscopic gynaecological surgery (hysterectomy, myomectomy, ovarian cyst), diagnostic and operative hysteroscopy, infertility treatment and laser cosmetic gynaecology. She is known for listening, explaining clearly and treating each patient with warmth.",
+    "clinicalPhilosophy": "Every patient deserves compassionate care, clear communication, and the most effective, least invasive treatment plan available.",
+    "areasOfExpertise": [
+        "Obstetrics, Gynaecology & Fertility",
+        "Patient Education",
+        "Advanced Diagnostics"
+    ],
+    "conditionsTreated": [
+        "Condition 1",
+        "Condition 2",
+        "Condition 3"
+    ],
+    "proceduresPerformed": [
+        "Procedure A",
+        "Procedure B"
+    ],
+    "commonReasons": [
+        "Symptom 1",
+        "Symptom 2"
+    ],
+    "faqs": [
+        {
+            "question": "How do I book an appointment with Dr Chitra Soni?",
+            "answer": "You can book an appointment with Dr Chitra Soni by calling our reception or messaging us directly on WhatsApp via this page."
+        }
+    ],
+    "videos": [],
+    "reviews": {
+        "rating": "4.9",
+        "count": "150",
+        "featured": [
+            {
+                "name": "Anonymous Patient",
+                "text": "Dr Chitra Soni provided excellent care and explained everything clearly."
+            }
+        ]
+    },
+    "publications": [
+        "Member of Indian Medical Association (IMA)"
+    ],
+    "languages": [
+        "English",
+        "Hindi"
+    ],
+    "opdSchedule": "Monday to Saturday, 10:00 AM - 2:00 PM",
+    "nearbyAreas": [
+        "Nirman Nagar",
+        "Mansarovar",
+        "Kings Road",
+        "Shyam Nagar",
+        "Brijlalpura"
+    ],
+    "relatedTreatments": [],
+    "relatedBlogs": [],
+    "sameAs": [
+        "https://www.youtube.com/@dr_chitra_soni"
+    ]
+}

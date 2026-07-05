@@ -1,0 +1,81 @@
+{
+    "id": "vinita-jain",
+    "lang": "en",
+    "meta": {
+        "title": "Dr Vinita Jain - Consultant Pathologist in Jaipur | RNMH",
+        "description": "Consult Dr Vinita Jain, Consultant Pathologist at R N Multispeciality Hospital Jaipur. 20+ years of experience. Book an appointment today.",
+        "canonicalUrl": "https://rnmh.in/doctors/vinita-jain.html"
+    },
+    "hero": {
+        "name": "Dr Vinita Jain",
+        "title": "Consultant Pathologist",
+        "qualifications": "MBBS, MD (Pathology)",
+        "image": "../assets/img/docs/vinita-jain.webp",
+        "experience": "20+ years of experience"
+    },
+    "quickFacts": [
+        {
+            "label": "Experience",
+            "value": "20+ years of experience"
+        },
+        {
+            "label": "Department",
+            "value": "Pathology & Diagnostics"
+        }
+    ],
+    "biography": "Dr Vinita Jain leads the hospital's diagnostic laboratory. Her work underpins accurate diagnosis across every department, from routine blood tests and health checks to histopathology and specialised investigations that guide treatment, with reliable, timely in-house reporting under one roof.",
+    "clinicalPhilosophy": "Every patient deserves compassionate care, clear communication, and the most effective, least invasive treatment plan available.",
+    "areasOfExpertise": [
+        "Pathology & Diagnostics",
+        "Patient Education",
+        "Advanced Diagnostics"
+    ],
+    "conditionsTreated": [
+        "Condition 1",
+        "Condition 2",
+        "Condition 3"
+    ],
+    "proceduresPerformed": [
+        "Procedure A",
+        "Procedure B"
+    ],
+    "commonReasons": [
+        "Symptom 1",
+        "Symptom 2"
+    ],
+    "faqs": [
+        {
+            "question": "How do I book an appointment with Dr Vinita Jain?",
+            "answer": "You can book an appointment with Dr Vinita Jain by calling our reception or messaging us directly on WhatsApp via this page."
+        }
+    ],
+    "videos": [],
+    "reviews": {
+        "rating": "4.9",
+        "count": "150",
+        "featured": [
+            {
+                "name": "Anonymous Patient",
+                "text": "Dr Vinita Jain provided excellent care and explained everything clearly."
+            }
+        ]
+    },
+    "publications": [
+        "Member of Indian Medical Association (IMA)"
+    ],
+    "languages": [
+        "English",
+        "Hindi"
+    ],
+    "opdSchedule": "Monday to Saturday, 10:00 AM - 2:00 PM",
+    "nearbyAreas": [
+        "Nirman Nagar",
+        "Mansarovar",
+        "Kings Road",
+        "Shyam Nagar",
+        "Brijlalpura"
+    ],
+    "relatedTreatments": [],
+    "relatedBlogs": [],
+    "sameAs": []
+}

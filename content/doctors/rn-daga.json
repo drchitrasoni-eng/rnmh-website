@@ -1,0 +1,81 @@
+{
+    "id": "rn-daga",
+    "lang": "en",
+    "meta": {
+        "title": "Dr R N Daga - Urologist & Andrologist in Jaipur | RNMH",
+        "description": "Consult Dr R N Daga, Urologist & Andrologist at R N Multispeciality Hospital Jaipur. 20+ years of experience. Book an appointment today.",
+        "canonicalUrl": "https://rnmh.in/doctors/rn-daga.html"
+    },
+    "hero": {
+        "name": "Dr R N Daga",
+        "title": "Urologist & Andrologist",
+        "qualifications": "MBBS, MS (General Surgery), M.Ch (Urology)",
+        "image": "../assets/img/docs/rn-daga.webp",
+        "experience": "20+ years of experience"
+    },
+    "quickFacts": [
+        {
+            "label": "Experience",
+            "value": "20+ years of experience"
+        },
+        {
+            "label": "Department",
+            "value": "Urology & Andrology"
+        }
+    ],
+    "biography": "Dr Ram Naresh Daga specialises in minimally invasive and laser urological surgery, including treatment for kidney stones, prostate enlargement and urological cancers (URS, PCNL, TURP, TURBT). A former Assistant Professor of General Surgery, he has handled well over a thousand such cases and takes care to choose the least invasive option.",
+    "clinicalPhilosophy": "Every patient deserves compassionate care, clear communication, and the most effective, least invasive treatment plan available.",
+    "areasOfExpertise": [
+        "Urology & Andrology",
+        "Patient Education",
+        "Advanced Diagnostics"
+    ],
+    "conditionsTreated": [
+        "Condition 1",
+        "Condition 2",
+        "Condition 3"
+    ],
+    "proceduresPerformed": [
+        "Procedure A",
+        "Procedure B"
+    ],
+    "commonReasons": [
+        "Symptom 1",
+        "Symptom 2"
+    ],
+    "faqs": [
+        {
+            "question": "How do I book an appointment with Dr R N Daga?",
+            "answer": "You can book an appointment with Dr R N Daga by calling our reception or messaging us directly on WhatsApp via this page."
+        }
+    ],
+    "videos": [],
+    "reviews": {
+        "rating": "4.9",
+        "count": "150",
+        "featured": [
+            {
+                "name": "Anonymous Patient",
+                "text": "Dr R N Daga provided excellent care and explained everything clearly."
+            }
+        ]
+    },
+    "publications": [
+        "Member of Indian Medical Association (IMA)"
+    ],
+    "languages": [
+        "English",
+        "Hindi"
+    ],
+    "opdSchedule": "Monday to Saturday, 10:00 AM - 2:00 PM",
+    "nearbyAreas": [
+        "Nirman Nagar",
+        "Mansarovar",
+        "Kings Road",
+        "Shyam Nagar",
+        "Brijlalpura"
+    ],
+    "relatedTreatments": [],
+    "relatedBlogs": [],
+    "sameAs": []
+}

@@ -822,4 +822,40 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://rnmh.in/doctors/chirag-jain.html</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://rnmh.in/doctors/chitra-soni.html</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://rnmh.in/doctors/naveen-soni.html</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://rnmh.in/doctors/ns-rathore.html</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://rnmh.in/doctors/pavan-jain.html</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://rnmh.in/doctors/rn-daga.html</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://rnmh.in/doctors/robin-bothra.html</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://rnmh.in/doctors/vinita-jain.html</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://rnmh.in/doctors/vishnu-gupta.html</loc>
+    <changefreq>monthly</changefreq>
+  </url>
 </urlset>

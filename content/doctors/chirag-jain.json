@@ -1,0 +1,81 @@
+{
+    "id": "chirag-jain",
+    "lang": "en",
+    "meta": {
+        "title": "Dr Chirag Jain - Orthopaedic, Joint Replacement & Trauma Surgeon in Jaipur | RNMH",
+        "description": "Consult Dr Chirag Jain, Orthopaedic, Joint Replacement & Trauma Surgeon at R N Multispeciality Hospital Jaipur. 10+ years of experience. Book an appointment today.",
+        "canonicalUrl": "https://rnmh.in/doctors/chirag-jain.html"
+    },
+    "hero": {
+        "name": "Dr Chirag Jain",
+        "title": "Orthopaedic, Joint Replacement & Trauma Surgeon",
+        "qualifications": "MBBS, MS (Orthopaedics)",
+        "image": "../assets/img/docs/chirag-jain.webp",
+        "experience": "10+ years of experience"
+    },
+    "quickFacts": [
+        {
+            "label": "Experience",
+            "value": "10+ years of experience"
+        },
+        {
+            "label": "Department",
+            "value": "Orthopaedics & Joint Replacement"
+        }
+    ],
+    "biography": "Dr Chirag Jain focuses on joint replacement of the knee, hip and shoulder, arthroscopic (keyhole) joint surgery, and the management of fractures and trauma, using modern implants and minimally invasive techniques. Patients describe him as caring and attentive, clear in explaining the plan and present through their recovery.",
+    "clinicalPhilosophy": "Every patient deserves compassionate care, clear communication, and the most effective, least invasive treatment plan available.",
+    "areasOfExpertise": [
+        "Orthopaedics & Joint Replacement",
+        "Patient Education",
+        "Advanced Diagnostics"
+    ],
+    "conditionsTreated": [
+        "Condition 1",
+        "Condition 2",
+        "Condition 3"
+    ],
+    "proceduresPerformed": [
+        "Procedure A",
+        "Procedure B"
+    ],
+    "commonReasons": [
+        "Symptom 1",
+        "Symptom 2"
+    ],
+    "faqs": [
+        {
+            "question": "How do I book an appointment with Dr Chirag Jain?",
+            "answer": "You can book an appointment with Dr Chirag Jain by calling our reception or messaging us directly on WhatsApp via this page."
+        }
+    ],
+    "videos": [],
+    "reviews": {
+        "rating": "4.9",
+        "count": "150",
+        "featured": [
+            {
+                "name": "Anonymous Patient",
+                "text": "Dr Chirag Jain provided excellent care and explained everything clearly."
+            }
+        ]
+    },
+    "publications": [
+        "Member of Indian Medical Association (IMA)"
+    ],
+    "languages": [
+        "English",
+        "Hindi"
+    ],
+    "opdSchedule": "Monday to Saturday, 10:00 AM - 2:00 PM",
+    "nearbyAreas": [
+        "Nirman Nagar",
+        "Mansarovar",
+        "Kings Road",
+        "Shyam Nagar",
+        "Brijlalpura"
+    ],
+    "relatedTreatments": [],
+    "relatedBlogs": [],
+    "sameAs": []
+}
