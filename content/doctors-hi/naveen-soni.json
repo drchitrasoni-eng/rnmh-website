@@ -1,0 +1,90 @@
+{
+    "id": "naveen-soni",
+    "lang": "hi",
+    "meta": {
+        "title": "डॉ. Naveen Soni - Interventional Pain Physician — Spine & Pain जयपुर में | RNMH",
+        "description": "R N Multispeciality Hospital जयपुर में विशेषज्ञ डॉक्टर से परामर्श लें।",
+        "canonicalUrl": "https://rnmh.in/hi/doctors/naveen-soni.html"
+    },
+    "hero": {
+        "name": "डॉ. नवीन सोनी",
+        "title": "इंटरवेंशनल पेन फिजिशियन — स्पाइन और पेन",
+        "qualifications": "MBBS, MD, FIPM (Germany), Minimally Invasive Endoscopic Spine Fellowship (MISS-EPP)",
+        "image": "../assets/img/docs/naveen-soni.webp",
+        "experience": "15+  वर्षों का अनुभव"
+    },
+    "quickFacts": [
+        {
+            "label": "अनुभव",
+            "value": "15+  वर्षों का अनुभव"
+        },
+        {
+            "label": "विभाग",
+            "value": "Pain Management & Spine"
+        }
+    ],
+    "biography": "डॉ. नवीन सोनी एक अनुभवी Interventional Pain Physician — Spine & Pain हैं जो जयपुर के R N Multispeciality Hospital में अपनी सेवाएं प्रदान करते हैं।",
+    "clinicalPhilosophy": "हर मरीज को करुणा, स्पष्ट संवाद और सबसे प्रभावी उपचार मिलना चाहिए।",
+    "areasOfExpertise": [
+        "इंटरवेंशनल पेन मैनेजमेंट",
+        "नॉन-सर्जिकल स्पाइन केयर",
+        "न्यूनतम आक्रामक प्रक्रियाएं"
+    ],
+    "conditionsTreated": [
+        "Slip Disc",
+        "Sciatica",
+        "Chronic Back & Neck Pain",
+        "Frozen Shoulder",
+        "Trigeminal Neuralgia",
+        "Migraine"
+    ],
+    "proceduresPerformed": [
+        "Ozone Discectomy",
+        "Endoscopic Spine Procedures",
+        "Nerve Blocks",
+        "Joint Injections"
+    ],
+    "commonReasons": [
+        "Chronic back pain radiating to legs",
+        "Severe joint pain",
+        "Persistent neck pain",
+        "Unrelieved migraines"
+    ],
+    "faqs": [
+        {
+            "question": "मैं डॉ. नवीन सोनी के साथ अपॉइंटमेंट कैसे बुक कर सकता हूँ?",
+            "answer": "आप डॉ. नवीन सोनी के साथ अपॉइंटमेंट बुक करने के लिए हमारे रिसेप्शन पर कॉल कर सकते हैं या इस पेज के माध्यम से हमें व्हाट्सएप पर मैसेज कर सकते हैं।"
+        }
+    ],
+    "videos": [],
+    "reviews": {
+        "rating": "4.9",
+        "count": "150",
+        "featured": [
+            {
+                "name": "Anonymous Patient",
+                "text": "Dr Naveen Soni provided excellent care and explained everything clearly."
+            }
+        ]
+    },
+    "publications": [
+        "Member of Indian Medical Association (IMA)"
+    ],
+    "languages": [
+        "English",
+        "Hindi"
+    ],
+    "opdSchedule": "Monday to Saturday, 10:00 AM - 2:00 PM",
+    "nearbyAreas": [
+        "Nirman Nagar",
+        "Mansarovar",
+        "Kings Road",
+        "Shyam Nagar",
+        "Brijlalpura"
+    ],
+    "relatedTreatments": [],
+    "relatedBlogs": [],
+    "sameAs": [
+        "https://www.youtube.com/@naveensoni1638"
+    ]
+}

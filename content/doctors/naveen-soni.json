@@ -26,22 +26,29 @@
     "biography": "Dr Naveen Soni helps patients live with less pain and, wherever it is safe, avoid open surgery. He offers non-surgical and minimally invasive treatment for slip disc, sciatica, back and neck pain, frozen shoulder, knee and hip pain, migraine, trigeminal neuralgia and nerve-related pain, including ozone discectomy and endoscopic spine techniques. Patients value the time he takes to understand the problem and his calm, conservative approach.",
     "clinicalPhilosophy": "Every patient deserves compassionate care, clear communication, and the most effective, least invasive treatment plan available.",
     "areasOfExpertise": [
-        "Pain Management & Spine",
-        "Patient Education",
-        "Advanced Diagnostics"
+        "Interventional Pain Management",
+        "Non-surgical Spine Care",
+        "Minimally Invasive Procedures"
     ],
     "conditionsTreated": [
-        "Condition 1",
-        "Condition 2",
-        "Condition 3"
+        "Slip Disc",
+        "Sciatica",
+        "Chronic Back & Neck Pain",
+        "Frozen Shoulder",
+        "Trigeminal Neuralgia",
+        "Migraine"
     ],
     "proceduresPerformed": [
-        "Procedure A",
-        "Procedure B"
+        "Ozone Discectomy",
+        "Endoscopic Spine Procedures",
+        "Nerve Blocks",
+        "Joint Injections"
     ],
     "commonReasons": [
-        "Symptom 1",
-        "Symptom 2"
+        "Chronic back pain radiating to legs",
+        "Severe joint pain",
+        "Persistent neck pain",
+        "Unrelieved migraines"
     ],
     "faqs": [
         {

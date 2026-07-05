@@ -27,21 +27,27 @@
     "clinicalPhilosophy": "Every patient deserves compassionate care, clear communication, and the most effective, least invasive treatment plan available.",
     "areasOfExpertise": [
         "General Medicine",
-        "Patient Education",
-        "Advanced Diagnostics"
+        "Internal Medicine",
+        "Chronic Disease Management"
     ],
     "conditionsTreated": [
-        "Condition 1",
-        "Condition 2",
-        "Condition 3"
+        "Diabetes",
+        "Thyroid Disorders",
+        "Hypertension",
+        "Respiratory Infections",
+        "Gastric Disorders"
     ],
     "proceduresPerformed": [
-        "Procedure A",
-        "Procedure B"
+        "Comprehensive Health Assessments",
+        "Chronic Disease Planning",
+        "Diagnostic Evaluation",
+        "Preventative Care"
     ],
     "commonReasons": [
-        "Symptom 1",
-        "Symptom 2"
+        "Unexplained fever",
+        "Persistent fatigue",
+        "Blood pressure management",
+        "Diabetes monitoring"
     ],
     "faqs": [
         {

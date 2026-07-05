@@ -1,0 +1,87 @@
+{
+    "id": "vishnu-gupta",
+    "lang": "hi",
+    "meta": {
+        "title": "डॉ. Vishnu Gupta - Consultant Physician — General Medicine जयपुर में | RNMH",
+        "description": "R N Multispeciality Hospital जयपुर में विशेषज्ञ डॉक्टर से परामर्श लें।",
+        "canonicalUrl": "https://rnmh.in/hi/doctors/vishnu-gupta.html"
+    },
+    "hero": {
+        "name": "डॉ. विष्णु गुप्ता",
+        "title": "कंसल्टेंट फिजिशियन — जनरल मेडिसिन",
+        "qualifications": "MBBS, MD (General Medicine)",
+        "image": "../assets/img/docs/vishnu-gupta.webp",
+        "experience": "10+  वर्षों का अनुभव"
+    },
+    "quickFacts": [
+        {
+            "label": "अनुभव",
+            "value": "10+  वर्षों का अनुभव"
+        },
+        {
+            "label": "विभाग",
+            "value": "General Medicine"
+        }
+    ],
+    "biography": "डॉ. विष्णु गुप्ता एक अनुभवी Consultant Physician — General Medicine हैं जो जयपुर के R N Multispeciality Hospital में अपनी सेवाएं प्रदान करते हैं।",
+    "clinicalPhilosophy": "हर मरीज को करुणा, स्पष्ट संवाद और सबसे प्रभावी उपचार मिलना चाहिए।",
+    "areasOfExpertise": [
+        "जनरल मेडिसिन",
+        "आंतरिक चिकित्सा",
+        "क्रोनिक रोग प्रबंधन"
+    ],
+    "conditionsTreated": [
+        "Diabetes",
+        "Thyroid Disorders",
+        "Hypertension",
+        "Respiratory Infections",
+        "Gastric Disorders"
+    ],
+    "proceduresPerformed": [
+        "Comprehensive Health Assessments",
+        "Chronic Disease Planning",
+        "Diagnostic Evaluation",
+        "Preventative Care"
+    ],
+    "commonReasons": [
+        "Unexplained fever",
+        "Persistent fatigue",
+        "Blood pressure management",
+        "Diabetes monitoring"
+    ],
+    "faqs": [
+        {
+            "question": "मैं डॉ. विष्णु गुप्ता के साथ अपॉइंटमेंट कैसे बुक कर सकता हूँ?",
+            "answer": "आप डॉ. विष्णु गुप्ता के साथ अपॉइंटमेंट बुक करने के लिए हमारे रिसेप्शन पर कॉल कर सकते हैं या इस पेज के माध्यम से हमें व्हाट्सएप पर मैसेज कर सकते हैं।"
+        }
+    ],
+    "videos": [],
+    "reviews": {
+        "rating": "4.9",
+        "count": "150",
+        "featured": [
+            {
+                "name": "Anonymous Patient",
+                "text": "Dr Vishnu Gupta provided excellent care and explained everything clearly."
+            }
+        ]
+    },
+    "publications": [
+        "Member of Indian Medical Association (IMA)"
+    ],
+    "languages": [
+        "English",
+        "Hindi"
+    ],
+    "opdSchedule": "Monday to Saturday, 10:00 AM - 2:00 PM",
+    "nearbyAreas": [
+        "Nirman Nagar",
+        "Mansarovar",
+        "Kings Road",
+        "Shyam Nagar",
+        "Brijlalpura"
+    ],
+    "relatedTreatments": [],
+    "relatedBlogs": [],
+    "sameAs": []
+}

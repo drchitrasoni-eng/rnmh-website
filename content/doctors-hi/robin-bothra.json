@@ -1,0 +1,91 @@
+{
+    "id": "robin-bothra",
+    "lang": "hi",
+    "meta": {
+        "title": "डॉ. Robin Bothra - General and Laparoscopic Surgeon जयपुर में | RNMH",
+        "description": "R N Multispeciality Hospital जयपुर में विशेषज्ञ डॉक्टर से परामर्श लें।",
+        "canonicalUrl": "https://rnmh.in/hi/doctors/robin-bothra.html"
+    },
+    "hero": {
+        "name": "डॉ. रॉबिन बोथरा",
+        "title": "जनरल एवं लेप्रोस्कोपिक सर्जन",
+        "qualifications": "MBBS, MS",
+        "image": "../assets/img/docs/robin-bothra.webp",
+        "experience": "15+  वर्षों का अनुभव"
+    },
+    "quickFacts": [
+        {
+            "label": "अनुभव",
+            "value": "15+  वर्षों का अनुभव"
+        },
+        {
+            "label": "विभाग",
+            "value": "General Surgery"
+        }
+    ],
+    "biography": "डॉ. रॉबिन बोथरा एक अनुभवी General and Laparoscopic Surgeon हैं जो जयपुर के R N Multispeciality Hospital में अपनी सेवाएं प्रदान करते हैं।",
+    "clinicalPhilosophy": "हर मरीज को करुणा, स्पष्ट संवाद और सबसे प्रभावी उपचार मिलना चाहिए।",
+    "areasOfExpertise": [
+        "जनरल सर्जरी",
+        "लेप्रोस्कोपिक सर्जरी",
+        "प्रक्टोलॉजी",
+        "बेरिएट्रिक और मेटाबोलिक सर्जरी"
+    ],
+    "conditionsTreated": [
+        "Gall Bladder Stones",
+        "Hernia",
+        "Appendicitis",
+        "Piles, Fissure & Fistula",
+        "Breast & Thyroid Diseases"
+    ],
+    "proceduresPerformed": [
+        "Laparoscopic Cholecystectomy",
+        "Hernia Repair",
+        "Laser Proctology",
+        "ZSR Circumcision",
+        "Laser Varicose Veins"
+    ],
+    "commonReasons": [
+        "Severe abdominal pain",
+        "Swelling or lumps",
+        "Chronic constipation or bleeding",
+        "Varicose veins"
+    ],
+    "faqs": [
+        {
+            "question": "मैं डॉ. रॉबिन बोथरा के साथ अपॉइंटमेंट कैसे बुक कर सकता हूँ?",
+            "answer": "आप डॉ. रॉबिन बोथरा के साथ अपॉइंटमेंट बुक करने के लिए हमारे रिसेप्शन पर कॉल कर सकते हैं या इस पेज के माध्यम से हमें व्हाट्सएप पर मैसेज कर सकते हैं।"
+        }
+    ],
+    "videos": [],
+    "reviews": {
+        "rating": "4.9",
+        "count": "150",
+        "featured": [
+            {
+                "name": "Anonymous Patient",
+                "text": "Dr Robin Bothra provided excellent care and explained everything clearly."
+            }
+        ]
+    },
+    "publications": [
+        "Member of Indian Medical Association (IMA)"
+    ],
+    "languages": [
+        "English",
+        "Hindi"
+    ],
+    "opdSchedule": "Monday to Saturday, 10:00 AM - 2:00 PM",
+    "nearbyAreas": [
+        "Nirman Nagar",
+        "Mansarovar",
+        "Kings Road",
+        "Shyam Nagar",
+        "Brijlalpura"
+    ],
+    "relatedTreatments": [],
+    "relatedBlogs": [],
+    "sameAs": [
+        "https://www.youtube.com/@drrobinbothra"
+    ]
+}

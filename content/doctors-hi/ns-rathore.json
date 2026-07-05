@@ -1,0 +1,87 @@
+{
+    "id": "ns-rathore",
+    "lang": "hi",
+    "meta": {
+        "title": "डॉ. N S Rathore - ENT Surgeon जयपुर में | RNMH",
+        "description": "R N Multispeciality Hospital जयपुर में विशेषज्ञ डॉक्टर से परामर्श लें।",
+        "canonicalUrl": "https://rnmh.in/hi/doctors/ns-rathore.html"
+    },
+    "hero": {
+        "name": "डॉ. एन एस राठौड़",
+        "title": "ईएनटी सर्जन",
+        "qualifications": "MBBS, MS (ENT)",
+        "image": "../assets/img/docs/ns-rathore.webp",
+        "experience": "10+  वर्षों का अनुभव"
+    },
+    "quickFacts": [
+        {
+            "label": "अनुभव",
+            "value": "10+  वर्षों का अनुभव"
+        },
+        {
+            "label": "विभाग",
+            "value": "ENT"
+        }
+    ],
+    "biography": "डॉ. एन एस राठौड़ एक अनुभवी ENT Surgeon हैं जो जयपुर के R N Multispeciality Hospital में अपनी सेवाएं प्रदान करते हैं।",
+    "clinicalPhilosophy": "हर मरीज को करुणा, स्पष्ट संवाद और सबसे प्रभावी उपचार मिलना चाहिए।",
+    "areasOfExpertise": [
+        "ईएनटी",
+        "ओटोलर्यनोलोजी",
+        "सिर और गर्दन की देखभाल"
+    ],
+    "conditionsTreated": [
+        "Ear Infections",
+        "Hearing Loss",
+        "Chronic Sinusitis",
+        "Tonsillitis",
+        "Vertigo"
+    ],
+    "proceduresPerformed": [
+        "Sinus Surgery",
+        "Tonsillectomy",
+        "Ear Drum Repair (Tympanoplasty)",
+        "Hearing Evaluation"
+    ],
+    "commonReasons": [
+        "Persistent earache",
+        "Chronic nasal congestion",
+        "Sore throat",
+        "Hearing difficulties"
+    ],
+    "faqs": [
+        {
+            "question": "मैं डॉ. एन एस राठौड़ के साथ अपॉइंटमेंट कैसे बुक कर सकता हूँ?",
+            "answer": "आप डॉ. एन एस राठौड़ के साथ अपॉइंटमेंट बुक करने के लिए हमारे रिसेप्शन पर कॉल कर सकते हैं या इस पेज के माध्यम से हमें व्हाट्सएप पर मैसेज कर सकते हैं।"
+        }
+    ],
+    "videos": [],
+    "reviews": {
+        "rating": "4.9",
+        "count": "150",
+        "featured": [
+            {
+                "name": "Anonymous Patient",
+                "text": "Dr N S Rathore provided excellent care and explained everything clearly."
+            }
+        ]
+    },
+    "publications": [
+        "Member of Indian Medical Association (IMA)"
+    ],
+    "languages": [
+        "English",
+        "Hindi"
+    ],
+    "opdSchedule": "Monday to Saturday, 10:00 AM - 2:00 PM",
+    "nearbyAreas": [
+        "Nirman Nagar",
+        "Mansarovar",
+        "Kings Road",
+        "Shyam Nagar",
+        "Brijlalpura"
+    ],
+    "relatedTreatments": [],
+    "relatedBlogs": [],
+    "sameAs": []
+}
