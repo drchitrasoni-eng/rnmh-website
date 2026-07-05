@@ -731,4 +731,115 @@
     <loc>https://rnmh.in/hi/treatments/pcos-treatment-jaipur.html</loc>
     <lastmod>2026-06-18</lastmod>
   </url>
+  <url>
+    <loc>https://rnmh.in/campaigns/laparoscopic-surgery.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rnmh.in/campaigns/ivf-fertility.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rnmh.in/campaigns/joint-replacement.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rnmh.in/campaigns/spine-surgery.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rnmh.in/hi/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/index.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://rnmh.in/hi/doctors.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/doctors.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/doctors.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://rnmh.in/hi/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/contact.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://rnmh.in/hi/accreditations.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/accreditations.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/accreditations.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://rnmh.in/hi/services/general-surgery.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/services/general-surgery.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/services/general-surgery.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://rnmh.in/hi/services/gynaecology.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/services/gynaecology.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/services/gynaecology.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://rnmh.in/hi/services/pain-spine.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/services/pain-spine.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/services/pain-spine.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://rnmh.in/hi/services/orthopaedics.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/services/orthopaedics.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/services/orthopaedics.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://rnmh.in/hi/services/urology.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/services/urology.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/services/urology.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://rnmh.in/hi/services/neurosurgery.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/services/neurosurgery.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/services/neurosurgery.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://rnmh.in/hi/services/ent.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/services/ent.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/services/ent.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://rnmh.in/hi/services/general-medicine.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/services/general-medicine.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/services/general-medicine.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://rnmh.in/hi/services/pathology.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rnmh.in/services/pathology.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://rnmh.in/hi/services/pathology.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
