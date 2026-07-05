@@ -1,0 +1,13 @@
+{
+  "resource": "https://rnmh.in/api/v1",
+  "authorization_servers": [
+    "https://rnmh.in"
+  ],
+  "scopes_supported": [
+    "read:hospital_data",
+    "write:appointments"
+  ],
+  "bearer_methods_supported": [
+    "header"
+  ]
+}

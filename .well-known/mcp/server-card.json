@@ -1,0 +1,15 @@
+{
+  "serverInfo": {
+    "name": "rnmh-mcp-server",
+    "version": "1.0.0"
+  },
+  "transport": {
+    "type": "sse",
+    "endpoint": "https://rnmh.in/mcp/sse"
+  },
+  "capabilities": {
+    "tools": true,
+    "resources": true,
+    "prompts": false
+  }
+}

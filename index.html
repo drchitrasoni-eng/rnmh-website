@@ -527,5 +527,31 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </div>
 
 <script src="assets/js/site.js?v=20260618-aeo-hotfix"></script>
+<script>
+  if (navigator.modelContext && navigator.modelContext.provideContext) {
+    navigator.modelContext.provideContext({
+      tools: [
+        {
+          name: "get_hospital_contact_info",
+          description: "Get the contact information for R N Multispeciality Hospital including address, phone number, and timings.",
+          inputSchema: {
+            type: "object",
+            properties: {}
+          },
+          execute: async function() {
+            return {
+              contact: {
+                address: "109-110, Shiv Shakti Nagar, Kings Road, Nirman Nagar, Jaipur 302019",
+                phone: "+911412390320",
+                hours: "Open 24x7, 365 days",
+                email: "admin@rnmh.in"
+              }
+            };
+          }
+        }
+      ]
+    });
+  }
+</script>
 </body>
 </html>
