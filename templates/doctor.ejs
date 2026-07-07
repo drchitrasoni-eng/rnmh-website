@@ -317,6 +317,9 @@ details.faq-card .desc {
     line-height: 1.6;
 }
 
+
+.doc-profile-grid { display: grid; grid-template-columns: 1fr 2fr; gap: 40px; margin-bottom: 48px; }
+@media(max-width: 900px) { .doc-profile-grid { grid-template-columns: 1fr; gap: 24px; } }
 </style>
 <link rel="icon" href="../assets/img/logo.png">
 <meta property="og:title" content="Doctors at R N Multispeciality Hospital Jaipur | Specialist Consultants">
@@ -658,7 +661,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <section style="padding-top: 32px;"><div class="wrap">
   
   <!-- 1. Hero & 2. Quick Facts -->
-  <div style="display: grid; grid-template-columns: 1fr 2fr; gap: 40px; margin-bottom: 48px;">
+  <div class="doc-profile-grid">
     <div class="photo" style="border-radius: 18px; overflow: hidden; background: var(--teal-soft); box-shadow: var(--shadow-soft);">
       <img src="<%= hero.image %>" alt="<%= hero.name %>" style="width: 100%; object-fit: cover; display: block;">
     </div>
