@@ -130,7 +130,7 @@ def update_english_homepage():
     "https://www.youtube.com/@dr_chitra_soni",
     "https://www.youtube.com/@naveensoni1638",
     "https://www.youtube.com/@drrobinbothra",
-    "https://www.instagram.com/drchitra_simplygynec/",
+    "https://www.instagram.com/drchitrasoni/",
     "https://www.instagram.com/spine_joint_and_back_pain_",
     "https://www.instagram.com/dr_robin_rn_hospital/"
   ]
